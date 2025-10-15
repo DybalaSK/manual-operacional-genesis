@@ -199,7 +199,7 @@ O controle aéreo para esses saltos são muito importante, assim sendo necessari
 
 A = Joga o veiculo pra esquerda\
 D = Joga o veiculo pra direira\
-W = Joga o veiculo pra frente\
-S = Joga o veiculo pra tras
+Shift = Joga o veiculo pra frente\
+Ctrl = Joga o veiculo pra tras
 
 </details>
