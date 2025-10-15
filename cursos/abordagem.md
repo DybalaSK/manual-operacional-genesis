@@ -73,7 +73,7 @@ Caso não tenha PFEM em QRV ou em serviço, o oficial presente deverá oferecer 
 O procedimento deve ser realizado nas celas do Departamento de Polícia e precisa ser registrado em vídeo para evitar qualquer situação de constrangimento no futuro. Deixe claro que a revista é na caixa e não na feminina.
 {% endhint %}
 
-## Revista Veiculuar
+## Revista Veicular
 
 <details>
 
