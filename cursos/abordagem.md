@@ -215,3 +215,9 @@ Destinada às QRU's de disparos, visual armado, sequestro e afins. O padrão de 
 <figure><img src="../.gitbook/assets/kk.png" alt=""><figcaption></figcaption></figure>
 
 </details>
+
+## Lei de miranda
+
+{% hint style="danger" %}
+_"Você tem o direito de permanecer em silêncio. Tudo o que você disser pode e será usado contra você em um tribunal. Você tem direito a um advogado. Se não puder pagar um advogado, um será providenciado. Você compreende os direitos que acabei de ler para você?"_
+{% endhint %}
