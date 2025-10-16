@@ -55,7 +55,7 @@ Normalmente utilizado quando o indivíduo recusa a abordagem policial e tem a es
 <mark style="color:yellow;">Quartenaria:</mark> Responspavel pelo cerco juntamente a Terciária
 
 {% hint style="danger" %}
-Lemrando que 1 GTM = 1 Unidade
+Lembrando que 1 GTM = 1 Unidade
 {% endhint %}
 
 </details>
