@@ -44,15 +44,13 @@ Em calçadas temos muitos fatores adversos que podem causar acidentes graves com
 
 <summary><mark style="color:blue;">Acompanhamento Veicular</mark></summary>
 
-Normalmente utilizado quando o indivíduo recusa a abordagem policial e tem a estrutura de 04 unidades.
+Normalmente utilizado quando o indivíduo recusa a abordagem policial e tem a estrutura de 03 unidades.
 
 <mark style="color:yellow;">Primária:</mark> Responsável por todo o acompanhamento (Visual, modulação e liberação do código 5 ou 3 caso seja necessário).
 
 <mark style="color:yellow;">Secundária:</mark> Deve se manter próximo à primária a fim de assumir temporária ou permanentemente se necessário. Pode auxiliar nos cercos, porém não é sua prioridade.
 
 <mark style="color:yellow;">Terciária:</mark> Responsável pelo cerco. Será a QSV que dará breve QTA para prestar apoio ao pedestre ou GTM atropelados se necessário.
-
-<mark style="color:yellow;">Quartenaria:</mark> Responspavel pelo cerco juntamente a Terciária
 
 {% hint style="danger" %}
 Lembrando que 2 GTM = 1 Unidade
@@ -168,8 +166,7 @@ No pneu:
 
 * [x] Caso o motociclista caia por 02 duas vezes e retorne para a moto. A GTM poderá efetuar disparos.
 * [x] Ao brincar de bate-bate ou break-check com as viaturas mesmo após verbalização. O uso da SPIKE ou Codigo 3 é libereado.
-
-- [x] Ao atropelar civis ou GTM e não prestar apoio mesmo após verbalização. O uso da SPIKE ou Codigo 3 é liberado.
+* [x] Ao atropelar civis ou GTM e não prestar apoio mesmo após verbalização. O uso da SPIKE ou Codigo 3 é liberado.
 
 </details>
 
