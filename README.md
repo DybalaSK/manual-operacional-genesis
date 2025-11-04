@@ -6,15 +6,15 @@ Bem-vindo ao Manual Operacional da Polícia Genesis. Este documento visa padroni
 
 ## Barreiras No Processo De Comunicação
 
-A comunicação é um dos pilares fundamentais da atuação policial. Uma modulação clara, objetiva e respeitosa é essencial para garantir o bom funcionamento das operações e a segurança de todos os membro, Embora pareça simples, a comunicação encontra diversas barreiras que podem interferir na clareza das mensagens transmitidas.
+A comunicação é um dos pilares fundamentais da atuação policial. Uma modulação clara, objetiva e respeitosa é essencial para garantir o bom funcionamento das operações e a segurança de todos os membros, Embora pareça simples, a comunicação encontra diversas barreiras que podem interferir na clareza das mensagens transmitidas.
 
 <details>
 
 <summary><mark style="color:blue;"><strong>Individuais</strong></mark></summary>
 
-<mark style="color:yellow;">**Questão interpessoal:**</mark> Não tenha vergonha em admitir que tenha duvidas ou que esta incerto em tal procedimento. sempre a algum superior ou colega de farda para ajudar-lo no que for preciso.
+<mark style="color:yellow;">**Questão interpessoal:**</mark> Não tenha vergonha em admitir que tenha duvidas ou que esta incerto em tal procedimento. sempre a algum superior ou colega de farda para ajuda-lo no que for preciso.
 
-<mark style="color:yellow;">**Lidar com erros:**</mark> Lembre-se cometer erros é normal, acabar esquecendo o nome de uma rua esquecer um QTH aonde o acompanhamento esteja passando, Contudo mantenha a calma e lembre-se de que com as emoções no lugar você conseguirá contornar a situação e encontrar uma solução.
+<mark style="color:yellow;">**Lidar com erros:**</mark> Lembre-se cometer erros é normal, acabar esquecendo o nome de uma rua ou esquecer um QTH aonde o acompanhamento esteja passando, Contudo mantenha a calma.
 
 <mark style="color:yellow;">**Pedir ajuda/auxílio:**</mark> Não tenha medo ou vergonha de pedir ajuda para outros oficiais, caso tenha alguma duvida sobre algum procedimento procure algum superior ou colega de farda para sanar duvidas.
 
@@ -23,8 +23,6 @@ A comunicação é um dos pilares fundamentais da atuação policial. Uma modula
 <details>
 
 <summary><mark style="color:blue;"><strong>Organizacional</strong></mark></summary>
-
-<mark style="color:yellow;">**Modulação inadequada:**</mark> Nem sempre irão concordar com o que você pensa, mas ter a maturidade para lidar com isso e seguir em frente é primordial. Jamais ofenda outro parceiro de farda e crie inimizades por uma discordância. Se houver qualquer problema, solicite o apoio de um superior imediato para resolver as pendências. Não aja de cabeça quente!
 
 <mark style="color:yellow;">**Comunicação na rádio:**</mark> Utilize do bom senso na hora de modular! Observe se já não há outra ocorrência em ativo e jamais atropele uma modulação em andamento. Passe todas as informações necessárias ao solicitar apoio para que não seja necessário "reparar" os informes e alugar a rádio.
 
@@ -38,6 +36,12 @@ Dica: mantenha sempre a calma e a clareza, mesmo em situações de estresse.
 
 ***
 
+## Meios de Comunicação
+
+**Aqui teremos alguns comandos que utilizamos com frequencia dentro do 1°BPM**
+
+<table><thead><tr><th width="374">Canal</th><th>Função</th></tr></thead><tbody><tr><td>/911</td><td>Comunicação com cidadãos (multas, denúncias, chamados).</td></tr><tr><td>/anunciopm</td><td>Enviar um anúncio para cidade como "Polícia Militar"<br>Exemplo: 1° BPM Informa: A Região do (Local) esta controlada e livre para transitar novamente</td></tr><tr><td>Chat Polícia ( /PD )</td><td>Comunicação administrativa e situacional interna.</td></tr><tr><td>pmt</td><td>Usado para fechar um perimetro ( Codigo 5 ) obs: Colocar nome da região que sera fechada.</td></tr></tbody></table>
+
 ## Normas para uso da rádio e do chat policia ( PD )
 
 {% hint style="info" %}
@@ -48,9 +52,12 @@ Estas normas visam manter a ordem e a eficiência na comunicação por rádio e 
 
 <summary><mark style="color:blue;"><strong>Rádio ( 190 )</strong></mark></summary>
 
-* Verifique se o canal está livre antes de modular.
-* Evite interrupções desnecessárias.
-* Utilize linguagem objetiva e respeitosa.
+* Verifique se o canal está livre antes de modular.\
+  "Exemplo: QAP central alguma QRU ou QRR em andamento?"
+* Evite interrupções desnecessárias.\
+  "Evite atropelar modulações"
+* Utilize linguagem objetiva e respeitosa.\
+  "Sempre utilizando o codigo Q"
 * Mantenha o foco no assunto da ocorrência.
 * Não proferir palavras obscenas e inadequadas na rádio <mark style="color:blue;">190.</mark>
 * Em ordem de oficiais superiores não conteste, apenas cumpra.
@@ -62,20 +69,13 @@ Estas normas visam manter a ordem e a eficiência na comunicação por rádio e 
 <summary><mark style="color:blue;"><strong>Chat Polícia (PD)</strong></mark></summary>
 
 * Informar entrada e saída de serviço (QTO / QTX).
-
-- Comunicação de patrulha (Código 0).
-
+* Comunicação de patrulha (Código 0).
 * Relato de ocorrências e pedidos de reforço.
-
-- Evite uso indevido para conversas informais.
-- Solicitar Penal ou PFEM.
-- Entre outros.
+* Evite uso indevido para conversas informais.
+* Solicitar Penal ou PFEM.
+* Entre outros.
 
 </details>
-
-**Aqui teremos alguns comandos que utilizamos com frequencia dentro do 1°BPM**
-
-<table><thead><tr><th width="374">Canal</th><th>Função</th></tr></thead><tbody><tr><td>/911</td><td>Comunicação com cidadãos (multas, denúncias, chamados).</td></tr><tr><td>/anunciopm</td><td>Enviar um anúncio para cidade como "Polícia Militar"<br>Exemplo: 1° BPM Informa: A Região do (Local) esta controlada e livre para transitar novamente</td></tr><tr><td>Chat Polícia ( /PD )</td><td>Comunicação administrativa e situacional interna.</td></tr></tbody></table>
 
 ***
 
