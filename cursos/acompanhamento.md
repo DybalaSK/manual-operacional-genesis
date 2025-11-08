@@ -44,7 +44,7 @@ Em calçadas temos muitos fatores adversos que podem causar acidentes graves com
 
 <summary><mark style="color:blue;">Acompanhamento Veicular</mark></summary>
 
-Normalmente utilizado quando o indivíduo recusa a abordagem policial e tem a estrutura de 03 unidades.
+Normalmente utilizado quando o indivíduo recusa a abordagem policial e tem a estrutura de 03 unidades + G.R.A.E.R (Bonus).
 
 <mark style="color:yellow;">Primária:</mark> Responsável por todo o acompanhamento (Visual, modulação e liberação do código 5 ou 3 caso seja necessário).
 
@@ -53,7 +53,7 @@ Normalmente utilizado quando o indivíduo recusa a abordagem policial e tem a es
 <mark style="color:yellow;">Terciária:</mark> Responsável pelo cerco. Será a QSV que dará breve QTA para prestar apoio ao pedestre ou GTM atropelados se necessário.
 
 {% hint style="danger" %}
-Lembrando que 2 GTM = 1 Unidade
+Lembrando que 3 GTM = 1 Unidade
 {% endhint %}
 
 </details>
@@ -138,7 +138,7 @@ Toda viatura policial acompanha configurações específicas que irão auxiliar 
 
 <summary><mark style="color:blue;">Codigo 3</mark></summary>
 
-O limite de unidades para essas situações são de até 04 unidades terrestres e apoio GRAER. Contudo, um Sargento+ poderá acionar mais unidades no local se houver a necessidade. Em acompanhamentos de código 3 existem prioridades de grupamentos para que se obtenha uma taxa maior de sucesso.
+O limite de unidades para essas situações são de até 03 unidades terrestres e apoio GRAER. Contudo, um Sargento+ poderá acionar mais unidades no local se houver a necessidade. Em acompanhamentos de código 3 existem prioridades de grupamentos para que se obtenha uma taxa maior de sucesso.
 
 Para veículos 4 rodas:
 

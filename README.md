@@ -40,7 +40,7 @@ Dica: mantenha sempre a calma e a clareza, mesmo em situações de estresse.
 
 **Aqui teremos alguns comandos que utilizamos com frequencia dentro do 1°BPM**
 
-<table><thead><tr><th width="374">Canal</th><th>Função</th></tr></thead><tbody><tr><td>/911</td><td>Comunicação com cidadãos (multas, denúncias, chamados).</td></tr><tr><td>/anunciopm</td><td>Enviar um anúncio para cidade como "Polícia Militar"<br>Exemplo: 1° BPM Informa: A Região do (Local) esta controlada e livre para transitar novamente</td></tr><tr><td>Chat Polícia ( /PD )</td><td>Comunicação administrativa e situacional interna.</td></tr><tr><td>pmt</td><td>Usado para fechar um perimetro ( Codigo 5 ) obs: Colocar nome da região que sera fechada.</td></tr></tbody></table>
+<table><thead><tr><th width="374">Canal</th><th>Função</th></tr></thead><tbody><tr><td>/911</td><td>Comunicação com cidadãos (multas, denúncias, chamados).</td></tr><tr><td>/anunciopm</td><td>Enviar um anúncio para cidade como "Polícia Militar"<br>Exemplo: 1° BPM Informa: A Região do (Local) esta controlada e livre para transitar novamente</td></tr><tr><td>Chat Polícia ( /PD )</td><td>Comunicação administrativa e situacional interna.</td></tr><tr><td>/pmt</td><td>Usado para fechar um perimetro ( Codigo 5 ) obs: Colocar nome da região que sera fechada.</td></tr></tbody></table>
 
 ## Normas para uso da rádio e do chat policia ( PD )
 
@@ -53,12 +53,13 @@ Estas normas visam manter a ordem e a eficiência na comunicação por rádio e 
 <summary><mark style="color:blue;"><strong>Rádio ( 190 )</strong></mark></summary>
 
 * Verifique se o canal está livre antes de modular.\
-  "Exemplo: QAP central alguma QRU ou QRR em andamento?"
+  <mark style="color:$warning;">"Exemplo: QAP central alguma QRU ou QRR em andamento?"</mark>
 * Evite interrupções desnecessárias.\
-  "Evite atropelar modulações"
+  <mark style="color:$warning;">"Evite atropelar modulações"</mark>
 * Utilize linguagem objetiva e respeitosa.\
-  "Sempre utilizando o codigo Q"
-* Mantenha o foco no assunto da ocorrência.
+  <mark style="color:$warning;">"Sempre utilizando o codigo Q"</mark>
+* Mantenha o foco no assunto da ocorrência.\
+  <mark style="color:$warning;">"Evite ficar de conversa paralelas na RADIO"</mark>
 * Não proferir palavras obscenas e inadequadas na rádio <mark style="color:blue;">190.</mark>
 * Em ordem de oficiais superiores não conteste, apenas cumpra.
 
@@ -68,11 +69,13 @@ Estas normas visam manter a ordem e a eficiência na comunicação por rádio e 
 
 <summary><mark style="color:blue;"><strong>Chat Polícia (PD)</strong></mark></summary>
 
-* Informar entrada e saída de serviço (QTO / QTX).
+* Informar entrada e saída de serviço (QTO / QTX).\
+  <mark style="color:$warning;">"</mark><mark style="color:$warning;">**QAP Central, Coronel Dybala Maledict Entrando Em Serviço Pelo 1° BPM - GENESIS**</mark><mark style="color:$warning;">"</mark>
 * Comunicação de patrulha (Código 0).
-* Relato de ocorrências e pedidos de reforço.
+* Relato de ocorrências e pedidos de reforço.\
+  <mark style="color:$warning;">"</mark><mark style="color:$warning;">**Placa:43d323 | Veiculo:S15 | QRU: Trafico" ou "Prioridade Gas**</mark><mark style="color:$warning;">"</mark>
 * Evite uso indevido para conversas informais.
-* Solicitar Penal ou PFEM.
+* Solicitar Penal ou PFEM ou outro OFICIAL.
 * Entre outros.
 
 </details>
