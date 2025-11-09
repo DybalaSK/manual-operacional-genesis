@@ -158,9 +158,10 @@ São situações de alta periculosidade e por isso deve-se ter atenção para sa
 
 No indivíduo:
 
-* [x] Ao tentar empurrar viaturas na água ou de lugares altos
-* [x] Ao apontar arma de fogo para oficiais
-* [x] Ao tentar roubar uma viatura do BPM
+* [x] Ao tentar empurrar viaturas na água ou de lugares altos.
+* [x] Ao apontar arma de fogo para oficiais.
+* [x] Ao tentar roubar uma viatura do BPM.
+* [x] Confirmação Visual Armado.
 
 No pneu:
 

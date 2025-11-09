@@ -10,7 +10,7 @@
 
 Enquanto em serviço, todos os oficiais tem autoridade legal para realizarem abordagens de toda a natureza e intensidade a qualquer cidadão. Isso inclui verificação de documentação, abordagens de trânsito por infrações, ações de caráter instrutivo, entre outros.
 
-<mark style="background-color:$info;">Lembrando que legalidade de revista não e a mesa coisa que legalidade de abordagem.</mark>
+<mark style="background-color:$info;">Lembrando que legalidade de revista não e a mesma coisa que legalidade de abordagem.</mark>
 
 ***
 
