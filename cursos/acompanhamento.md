@@ -53,7 +53,7 @@ Normalmente utilizado quando o indivíduo recusa a abordagem policial e tem a es
 <mark style="color:yellow;">Terciária:</mark> Responsável pelo cerco. Será a QSV que dará breve QTA para prestar apoio ao pedestre ou GTM atropelados se necessário.
 
 {% hint style="danger" %}
-Lembrando que 3 GTM = 1 Unidade
+Lembrando que 2 GTM = 1 Unidade
 {% endhint %}
 
 </details>
