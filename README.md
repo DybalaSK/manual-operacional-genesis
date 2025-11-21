@@ -40,7 +40,11 @@ Dica: mantenha sempre a calma e a clareza, mesmo em situações de estresse.
 
 **Aqui teremos alguns comandos que utilizamos com frequencia dentro do 1°BPM**
 
-<table><thead><tr><th width="374">Canal</th><th>Função</th></tr></thead><tbody><tr><td>/911</td><td>Comunicação com cidadãos (multas, denúncias, chamados).</td></tr><tr><td>/anunciopm</td><td>Enviar um anúncio para cidade como "Polícia Militar"<br>Exemplo: 1° BPM Informa: A Região do (Local) esta controlada e livre para transitar novamente</td></tr><tr><td>Chat Polícia ( /PD )</td><td>Comunicação administrativa e situacional interna.</td></tr><tr><td>/pmt</td><td>Usado para fechar um perimetro ( Codigo 5 ) obs: Colocar nome da região que sera fechada.</td></tr></tbody></table>
+<table><thead><tr><th width="374">Canal</th><th>Função</th></tr></thead><tbody><tr><td>/911</td><td>Comunicação com cidadãos (multas, denúncias, chamados).</td></tr><tr><td>/anunciopm</td><td>Enviar um anúncio para cidade como "Polícia Militar"<br>Exemplo: 1° BPM Informa: A Região do (Local) esta controlada e livre para transitar novamente</td></tr><tr><td>Chat Polícia ( /PD )</td><td>Comunicação administrativa e situacional interna.</td></tr><tr><td>/pmt</td><td>Usado para fechar um perimetro ( Codigo 5 ) obs: Colocar nome da região que sera fechada.</td></tr><tr><td>/pmtr</td><td>Usado para abrir um perimetro ( Codigo 5 ) <br>obs: Colocar nome da região que sera aberta.</td></tr></tbody></table>
+
+{% hint style="danger" %}
+Lembrando que só poderar utilizar o PMTR depois que passar os 2 minutos sem nenhum disparo.&#x20;
+{% endhint %}
 
 ## Normas para uso da rádio e do chat policia ( PD )
 
