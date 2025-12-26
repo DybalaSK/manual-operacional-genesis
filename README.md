@@ -1,6 +1,6 @@
 # 🟢Comunicação Operacional🟢&#x20;
 
-Bem-vindo ao Manual Operacional da Polícia Genesis. Este documento visa padronizar a comunicação e os procedimentos operacionais para garantir a eficiência, segurança e profissionalismo de todos os membros.
+Bem-vindo ao Manual Operacional da Polícia Garden. Este documento visa padronizar a comunicação e os procedimentos operacionais para garantir a eficiência, segurança e profissionalismo de todos os membros.
 
 ***
 
@@ -74,7 +74,7 @@ Estas normas visam manter a ordem e a eficiência na comunicação por rádio e 
 <summary><mark style="color:blue;"><strong>Chat Polícia (PD)</strong></mark></summary>
 
 * Informar entrada e saída de serviço (QTO / QTX).\
-  <mark style="color:$warning;">"</mark><mark style="color:$warning;">**QAP Central, Coronel Dybala Maledict Entrando Em Serviço Pelo 1° BPM - GENESIS**</mark><mark style="color:$warning;">"</mark>
+  <mark style="color:$warning;">"</mark><mark style="color:$warning;">**QAP Central, Coronel Dybala Maledict Entrando Em Serviço Pelo 1° BPM - GARDEN**</mark><mark style="color:$warning;">"</mark>
 * Comunicação de patrulha (Código 0).
 * Relato de ocorrências e pedidos de reforço.\
   <mark style="color:$warning;">"</mark><mark style="color:$warning;">**Placa:43d323 | Veiculo:S15 | QRU: Trafico" ou "Prioridade Gas**</mark><mark style="color:$warning;">"</mark>
@@ -94,7 +94,7 @@ As apresentações visam manter a ordem no CHAT Policia ( PD )
 
 Aqui teremos alguns exemplos sobre algumas apresentações que iremos utilizar no PD:
 
-* QAP Central, (Patente) (Nome) (Grupamento caso tenha) Entrando Em Serviço Pelo 1° BPM - GENESIS
+* QAP Central, (Patente) (Nome) (Grupamento caso tenha) Entrando Em Serviço Pelo 1° BPM - GARDEN
 * QAP Central, (Patente) (Nome) (Grupamento caso tenha) indo de QTX. Bom serviço a todos!
 * QAP Central, (Patente) (Nome) Em Breve QTX
 * QAP Central, (Patente) (Nome) Voltando Do Breve QTX

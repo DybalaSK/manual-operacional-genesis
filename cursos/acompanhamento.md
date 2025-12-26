@@ -92,8 +92,7 @@ Em casos onde o indivíduo tenha o seu veículo totalmente neutralizado/quebrado
 
 ## Funções compartilhadas
 
-São funções utilizadas entre as QSVs que são essenciais para que um acompanhamento possa ser desenvolvido, nos permitindo o código 4.\
-
+São funções utilizadas entre as QSVs que são essenciais para que um acompanhamento possa ser desenvolvido, nos permitindo o código 4.<br>
 
 * <mark style="color:yellow;">SSL (Sinais sonoros e luminosos)</mark> - O luminoso (Giroflex) não tem variação de cor. Já o sonoro é representando por 03 intensidades, tendo cada uma delas o seu significado:
 

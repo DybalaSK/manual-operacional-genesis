@@ -171,7 +171,7 @@ Destinada às situações de trânsito, o objetivo principal é a verificação 
 
 
 
-    "Bom dia, sou o Coronel Dybala Maledict do 1° BPM-Genesis. Parei o senhor porque foi observado que os faróis traseiros do seu veículo estão quebrados."
+    "Bom dia, sou o Coronel Dybala Maledict do 1° BPM-Garden. Parei o senhor porque foi observado que os faróis traseiros do seu veículo estão quebrados."
 
     * Após contextualização, será solicitado o documento do envolvido presente e será feita a checagem de pendências.
 
@@ -199,7 +199,7 @@ Mais comum no dia-a-dia dos oficiais, são destinadas às QRU's de corrida ilega
 
 *   Com o apoio já no local, o P2 irá até o indivíduo se apresentar formalmente e explicar o motivo da abordagem.
 
-    <mark style="color:$warning;">"Bom dia, sou o Coronel Dybala Maledict do 1° BPM-Genesis. Parei o senhor porque recebemos denúncia de um roubo de Veiculo no local."</mark>
+    <mark style="color:$warning;">"Bom dia, sou o Coronel Dybala Maledict do 1° BPM-Garden. Parei o senhor porque recebemos denúncia de um roubo de Veiculo no local."</mark>
 * Após contextualização, será solicitado o documento do envolvido presente e será feita a checagem de pendências juntamente com o procedimento padrão de revista (Se a história não for convincente).
 
 {% hint style="success" %}
