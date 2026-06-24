@@ -40,7 +40,7 @@ Dica: mantenha sempre a calma e a clareza, mesmo em situações de estresse.
 
 **Aqui teremos alguns comandos que utilizamos com frequencia dentro do 1°BPM**
 
-<table><thead><tr><th width="374">Canal</th><th>Função</th></tr></thead><tbody><tr><td>/anunciopolicia</td><td>Enviar um anúncio para cidade como "Polícia Militar"<br>Exemplo: 1° BPM Informa: Estamos em formação semanal no momento, </td></tr><tr><td>Chat Polícia ( /190 )</td><td>Comunicação administrativa e situacional interna.</td></tr></tbody></table>
+<table><thead><tr><th width="374">Canal</th><th>Função</th></tr></thead><tbody><tr><td>/anunciopolicia</td><td>Enviar um anúncio para cidade como "Polícia Militar"<br>Exemplo: 1° BPM Informa: A policia se encontra em FORMAÇÃO semanal no momento, <strong>nenhuma ocorrência ou chamado será atendido.</strong> agradecemos a compreensão.</td></tr><tr><td>Chat Polícia ( /190 )</td><td>Comunicação administrativa e situacional interna.</td></tr></tbody></table>
 
 ## Normas para uso da rádio e do chat policia ( PD )
 
@@ -63,6 +63,10 @@ Estas normas visam manter a ordem e a eficiência na comunicação por rádio e 
 * Não proferir palavras obscenas e inadequadas na rádio <mark style="color:blue;">911.</mark>
 * Em ordem de oficiais superiores não conteste, apenas cumpra.
 
+{% hint style="danger" %}
+Nunca interrompa a transmissão de outro policial. Caso esteja em alguma prioridade solicite **QRX (silêncio)** na rádio e aguarde silencio para comunicar a prioridade.
+{% endhint %}
+
 </details>
 
 <details>
@@ -73,7 +77,7 @@ Estas normas visam manter a ordem e a eficiência na comunicação por rádio e 
   <mark style="color:$warning;">"</mark><mark style="color:$warning;">**QAP Central, 2°Tenente Dybala NoLove Navoz Entrando Em Serviço Pelo 1° BPM - SAINT**</mark><mark style="color:$warning;">"</mark>
 * Comunicação de patrulha (Código 0).
 * Relato de ocorrências e pedidos de reforço.\
-  <mark style="color:$warning;">"</mark><mark style="color:$warning;">**Placa:43d323 | Veiculo:S15 | QRU: Trafico" ou "Prioridade Gas**</mark><mark style="color:$warning;">"</mark>
+  <mark style="color:$warning;">"</mark><mark style="color:$warning;">**Placa:43d323 | Veiculo:S15 | QRU: Trafico | Ativo 912 |**</mark>
 * Evite uso indevido para conversas informais.
 * Solicitar Penal ou PFEM ou outro OFICIAL.
 * Entre outros.
