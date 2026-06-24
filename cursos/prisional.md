@@ -60,3 +60,19 @@ Itens Apreendidos:
 {% hint style="danger" %}
 o indivíduo poderá receber benefícios que reduzem seu tempo de prisão. Essas reduções se aplicam apenas à pena, **não sendo permitido reduzir o valor das multas.**
 {% endhint %}
+
+***
+
+## Veiculos
+
+<figure><img src="../.gitbook/assets/c.png" alt=""><figcaption></figcaption></figure>
+
+Nessa parte teremos todas as informações de todos os veiculos da cidade, assim podendo **Multar, Apreender, colocar como furtado, procurado e liberar veiculo.**
+
+***
+
+## Estatisticas
+
+<figure><img src="../.gitbook/assets/d.png" alt=""><figcaption></figcaption></figure>
+
+Aqui você podera ver os oficiais que estão de serviço e seus grupamentos.
