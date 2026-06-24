@@ -1,6 +1,12 @@
+---
+description: >-
+  Esse guia serve para melhor explicação das suas funcionalidades e eventuais
+  retiradas de dúvidas.
+---
+
 # 🟡Prisional🟡
 
-Esse guia serve para melhor explicação das suas funcionalidades e eventuais retiradas de dúvidas.
+***
 
 ## Painel
 
@@ -72,3 +78,4 @@ Nessa parte teremos todas as informações de todos os veiculos da cidade, assim
 <figure><img src="../.gitbook/assets/d.png" alt=""><figcaption></figcaption></figure>
 
 Aqui você podera ver os oficiais que estão de serviço e seus grupamentos.
+
