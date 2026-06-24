@@ -1,12 +1,8 @@
 # 🟡Prisional🟡
 
-**INTRODUÇÃO**
-
 Esse guia serve para melhor explicação das suas funcionalidades e eventuais retiradas de dúvidas.
 
-
-
-**PAINEL**
+## Painel
 
 para acessar o sistema da policia e necessario o Tablet Policial | TabletSaint.
 

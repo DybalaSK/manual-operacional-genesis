@@ -44,9 +44,9 @@ Em calçadas temos muitos fatores adversos que podem causar acidentes graves com
 
 <summary><mark style="color:blue;">Acompanhamento Veicular</mark></summary>
 
-Normalmente utilizado quando o indivíduo recusa a abordagem policial e tem a estrutura de 03 unidades + G.R.A.E.R (Bonus).
+Normalmente utilizado quando o indivíduo recusa a abordagem policial e tem a estrutura de 03 unidades + G.R.A.E.R (bônus).
 
-<mark style="color:yellow;">Primária:</mark> Responsável por todo o acompanhamento (Visual, modulação e liberação do código 5 ou 3 caso seja necessário).
+<mark style="color:yellow;">Primária:</mark> Responsável por todo o acompanhamento (Visual, modulação e liberação do código 5 caso seja necessário).
 
 <mark style="color:yellow;">Secundária:</mark> Deve se manter próximo à primária a fim de assumir temporária ou permanentemente se necessário. Pode auxiliar nos cercos, porém não é sua prioridade.
 
@@ -110,10 +110,10 @@ Utilizada em contra-mão e vias pavimentadas (Praça, HP, Entre outros lugares).
 {% endtab %}
 {% endtabs %}
 
-* <mark style="color:yellow;">QTA</mark> - Saída definitiva de uma ocorrência (Queda da moto, quebra do motor, capote, sem gasolina, QSV carbonizada, entre outros).
+* <mark style="color:yellow;">QTA</mark> - Saída definitiva de uma ocorrência (queda da moto, quebra do motor, capote, sem gasolina, QSV carbonizada, entre outros).
 * <mark style="color:yellow;">Breve QTA</mark> - Saída temporária de uma ocorrência, realizada na maioria das vezes pela terciária e GRAER (abastecimento do águia, embarque de operador, P1 mordido e atropelamento de civil ou GTM).
 * <mark style="color:yellow;">QTI</mark> - Não garante vaga, mas deve ser modulada na rádio.
-* <mark style="color:yellow;">GPS</mark> - dispositivo que permite encontrar policiais transitando pela cidade.
+* <mark style="color:yellow;">GPS</mark> - Dispositivo que permite encontrar policiais transitando pela cidade.
 * <mark style="color:yellow;">Modulação</mark> - Essencial para localizar ocorrências e passar informes.
 * <mark style="color:yellow;">Ultrapassagem</mark> - Realizada com autorização das unidades à frente, sempre pela esquerda e numa reta.
 * <mark style="color:yellow;">Distanciamento de segurança</mark> - Evita colisões desnecessárias e acidentes graves.
@@ -160,13 +160,13 @@ No indivíduo:
 * [x] Ao tentar empurrar viaturas na água ou de lugares altos.
 * [x] Ao apontar arma de fogo para oficiais.
 * [x] Ao tentar roubar uma viatura do BPM.
-* [x] Confirmação Visual Armado,/Visual Disparando
+* [x] Confirmação Visual Armado/Visual Disparando
 
 No pneu:
 
 * [x] Caso o motociclista caia por 02 duas vezes e retorne para a moto. A ROCAM poderá efetuar disparos.
-* [x] Ao brincar de bate-bate ou break-check com as viaturas mesmo após verbalização. O uso da SPIKE é libereado.
-* [x] Ao atropelar civis ou ROCAM e não prestar apoio mesmo após verbalização. O uso da SPIKE ou Codigo 5 é liberado.
+* [x] Ao brincar de bate-bate ou break-check com as viaturas mesmo após a verbalização. O uso da SPIKE é liberado.
+* [x] Ao atropelar civis ou ROCAM e não prestar apoio mesmo após a verbalização. O uso da SPIKE ou Código 5 é liberado.
 
 </details>
 
@@ -177,12 +177,12 @@ Em casos onde o indivíduo de um veículo acompanhado desce e corre para outro a
 <mark style="color:yellow;">Para veículos 2/4 rodas</mark>:
 
 * <mark style="color:yellow;">Primeiro resgate</mark> = Adicionar mais 2 unidades.
-* <mark style="color:yellow;">Segundo resgate</mark> = Liberado o uso de SPIKES <mark style="color:$warning;">(Uso permitido para GRR)</mark>
+* <mark style="color:yellow;">Segundo resgate</mark> = Liberado o uso de SPIKES <mark style="color:$warning;">(uso permitido para GRR)</mark>
 * <mark style="color:yellow;">Terceiro resgate</mark> = Liberação de disparo em <mark style="color:$danger;">UM</mark> pneu (com autorização)
 * Nas situações em que o indivíduo venha a abastecer e/ou reparar o veículo antes dos 10 minutos após a perda de visual, as viaturas presentes no acompanhamento estão autorizadas a abastecer e/ou reparar o veículo.
 
 {% hint style="danger" %}
-Em casos de visual armado ou quando há confirmação de que o indivíduo está de fato armado fica autorizado a **liberação de todas as unidades disponíveis no acompanhamento.**
+Em casos de visual armado, ou quando há confirmação de que o indivíduo está de fato armado, fica autorizado a **liberação de todas as unidades disponíveis no acompanhamento.**
 {% endhint %}
 
 ## Rampas
@@ -193,7 +193,7 @@ Saltos e rampas são permitidos na cidade. Dito isso, caso seja necessário, uti
 
 <summary><mark style="color:blue;">Controle e rampas</mark></summary>
 
-O controle aéreo para esses saltos são muito importante, assim sendo necessario controlar não só o veiculo e sim a velocidade, para não acabar passando por cima de pontes ou ate mesmo não conseguindo ganhar velocidade para fazer o salto.&#x20;
+O controle aéreo para esses saltos são muito importante, assim sendo necessário controlar não só o veículo e sim a velocidade, para não acabar passando por cima de pontes ou até mesmo não conseguindo ganhar velocidade para fazer o salto.&#x20;
 
 <figure><img src="../.gitbook/assets/rampa.gif" alt=""><figcaption></figcaption></figure>
 

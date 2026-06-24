@@ -10,7 +10,7 @@
 
 Enquanto em serviço, todos os oficiais tem autoridade legal para realizarem abordagens de toda a natureza e intensidade a qualquer cidadão. Isso inclui verificação de documentação, abordagens de trânsito por infrações, ações de caráter instrutivo, entre outros.
 
-<mark style="background-color:$info;">Lembrando que legalidade de revista não e a mesma coisa que legalidade de abordagem.</mark>
+<mark style="background-color:$info;">Lembrando que legalidade de revista não é a mesma coisa que legalidade de abordagem.</mark>
 
 ***
 
@@ -28,9 +28,9 @@ Utilizada dentro de um raio de 1KM da QRU. Deve-se avaliar a variante de tempo e
 
 <details>
 
-<summary><mark style="color:blue;">Denuncia por caracteristica</mark></summary>
+<summary><mark style="color:blue;">Denúncia por característica</mark></summary>
 
-Denuncia feita por um boletim de ocorrencia (B.O) ou uma denuncia pelo PD informando principais caracteristica do mesmo e veiculo ( modelo, coloração entre outros ). Se durante patrulha observar alguém que bata com a denúncia, poderá ser abordado e deverá ser revistado.
+Denúncia feita por um boletim de ocorrência (B.O) ou uma denuncia pelo PD informando principais característica do mesmo e veículo ( modelo, coloração entre outros ). Se durante patrulha observar alguém que bata com a denúncia, poderá ser abordado e deverá ser revistado.
 
 </details>
 
@@ -58,8 +58,8 @@ Permanecendo as legalidade de revista nessa situação, a feminina não poderá 
 
 
 
-* "QAP Central, PFEM Em QRV?"
-* "Preciso que venha ate meu QTH para fazer uma revista em uma feminina, por gentileza."
+* "QAP Central, PFEM em QRV?"
+* "Preciso que venha até meu QTH para fazer uma revista em uma feminina, por gentileza."
 
 {% hint style="danger" %}
 Caso não tenha PFEM em QRV ou em serviço, o oficial presente deverá oferecer o procedimento da caixa.
@@ -97,7 +97,7 @@ Se o indivíduo for pego mexendo no porta-malas durante acompanhamento ou aborda
 
 ## Teste Residual/pólvora
 
-Durante abordagem pode ser que seja necessário utilizar o teste residual ou o teste de polvora
+Durante abordagem pode ser que seja necessário utilizar o teste residual ou o teste de pólvora.
 
 <details>
 
@@ -129,11 +129,11 @@ Não fiquem apreensivos em liberar um indivíduo se a história dele for convinc
 
 <summary><mark style="color:blue;">Apreensão liberada</mark></summary>
 
-* [x] Caso a QRU ja esteja finalizada ( COD.4 ) e o mesmo esteja na prisão.
-* [x] Caso ocorra uma QRU de COD.5 ( Prioridade ) e os mesmo seja abatidos.
+* [x] Caso a QRU já esteja finalizada ( COD.4 ) e o indivíduo esteja na prisão.
+* [x] Caso ocorra uma QRU de COD.5 ( Prioridade ) e os indivíduos seja abatidos.
 
 {% hint style="danger" %}
-Lembrando que, só esta permitido a apreensão dos itens depois da <mark style="color:red;">área vermelha</mark> acabar e o anuncio de ação finalizada ser lançado e os mesmo estiver nas celas.
+Lembrando que só é permitido a apreensão dos itens depois da <mark style="color:red;">área vermelha</mark> acabar e o anúncio de ação finalizada ser lançado e os mesmo estiver nas celas.
 {% endhint %}
 
 </details>
@@ -142,7 +142,7 @@ Lembrando que, só esta permitido a apreensão dos itens depois da <mark style="
 
 <summary><mark style="color:blue;">Apreensão não liberada</mark></summary>
 
-* [x] Caso a QRU esteja em andamento <mark style="color:red;">não esta liberado</mark> a apreensão dos itens do mesmo.
+* [x] Caso a QRU esteja em andamento, <mark style="color:red;">não está liberado</mark> a apreensão dos itens dos indivíduos.
 * [x] Caso uma ação fechada ou prioridade esteja em andamento é <mark style="color:red;">totalmente proibido</mark> fazer a apreensão.
 
 </details>
@@ -161,7 +161,7 @@ Destinada às situações de trânsito, o objetivo principal é a verificação 
 
 * P1 faz uso do luminoso e sonoro dando a ordem de parada.
 * O P2 solicitará apoio de mais duas unidades e assim que chegarem será iniciada a abordagem. \
-  <mark style="color:$warning;">"QAP Central, Iniciando uma abordagem de CODIGO 1 em um S15 Branco tripulado x2 na região do vermelho, preciso de apoio de mais 2 unidades. Alguma unidade pra prestar apoio?"</mark>
+  <mark style="color:$warning;">"QAP Central, Iniciando uma abordagem de CÓDIGO 1 em um S15 Branco tripulado x2 na região do vermelho, preciso de apoio de mais 2 unidades. Alguma unidade pra prestar apoio?"</mark>
 
 <figure><img src="../.gitbook/assets/1.png" alt=""><figcaption></figcaption></figure>
 
@@ -169,7 +169,7 @@ Destinada às situações de trânsito, o objetivo principal é a verificação 
 
 
 
-    "Bom dia, sou o 2°Tenente Dybala NoLove do 1° BPM-SAINT. Parei o senhor porque foi observado que os faróis traseiros do seu veículo estão quebrados."
+    "Bom dia, sou o 2°Tenente Dybala NoLove do 1° BPM. Parei o senhor porque foi observado que os faróis traseiros do seu veículo estão quebrados."
 
     * Após contextualização, será solicitado o documento do envolvido presente e será feita a checagem de pendências.
 
@@ -191,14 +191,14 @@ Mais comum no dia-a-dia dos oficiais, são destinadas às QRU's de corrida ilega
 
 * P1 faz uso do luminoso e sonoro dando a ordem de parada.
 * O P2 solicitará apoio de mais duas unidades e assim que chegarem será iniciada a abordagem. solicitará o desembarque do abordado de seu veículo, encostando na parede com as mãos para trás.\
-  <mark style="color:$warning;">"QAP Central, Iniciando uma abordagem de CODIGO 2 em um R34 Vermelho tripulado x1 na região do SAMIR, preciso de apoio de mais 2 unidades. Alguma unidade pra prestar apoio?"</mark>
+  <mark style="color:$warning;">"QAP Central, Iniciando uma abordagem de CÓDIGO 2 em um R34 Vermelho tripulado x1 na região do SAMIR, preciso de apoio de mais 2 unidades. Alguma unidade pra prestar apoio?"</mark>
 
 <figure><img src="../.gitbook/assets/1.png" alt=""><figcaption></figcaption></figure>
 
 *   Com o apoio já no local, o P2 irá até o indivíduo se apresentar formalmente e explicar o motivo da abordagem.
 
-    <mark style="color:$warning;">"Bom dia, sou o</mark> <mark style="color:$warning;">2°Tenente Dybala NoLove do 1° BPM-SAINT</mark><mark style="color:$warning;">. Parei o senhor porque recebemos denúncia de um roubo de Veiculo no local."</mark>
-* Após contextualização, será solicitado o documento do envolvido presente e será feita a checagem de pendências juntamente com o procedimento padrão de revista (Se a história não for convincente).
+    <mark style="color:$warning;">"Bom dia, sou o</mark> <mark style="color:$warning;">2°Tenente Dybala NoLove do 1° BPM</mark><mark style="color:$warning;">. Parei o senhor porque recebemos denúncia de um roubo de Veiculo no local."</mark>
+* Após contextualização, será solicitado o documento do envolvido presente e será feita a checagem de pendências juntamente com o procedimento padrão de revista ( se a história não for convincente ).
 
 {% hint style="success" %}
 Se for liberado, o indivíduo deverá ligar seu carro e partir após o giroflex ser desligado.
@@ -214,7 +214,7 @@ Se for conduzido para o Departamento de Polícia, deve-se dar o código 4 na rá
 
 <summary><mark style="color:blue;">Abordagem de nivel 3</mark></summary>
 
-Destinada às QRU's de disparos, visual armado, sequestro e afins. O padrão de unidades participantes são 03 Unidades, porém pode aumentar se um Sargento+ ou BOPE sentir a necessidade. O posicionamento segue o padrão abaixo. No momento em que o indivíduo descer do veículo, a primária deverá se aproximar e algemá-lo de imediato para garantir a segurança de todos.
+Destinada às QRU's de disparos, visual armado, sequestro e afins. O padrão de unidades participantes são **03 unidades**, porém pode aumentar se um **Sargento+ ou BOPE** sentir a necessidade. O posicionamento segue o padrão abaixo. No momento em que o indivíduo descer do veículo, a primária deverá se aproximar e algemá-lo de imediato para garantir a segurança de todos.
 
 <figure><img src="../.gitbook/assets/2 (1).png" alt=""><figcaption></figcaption></figure>
 

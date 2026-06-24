@@ -98,8 +98,8 @@ As apresentações visam manter a ordem no CHAT Policia ( PD )
 
 Aqui teremos alguns exemplos sobre algumas apresentações que iremos utilizar no PD:
 
-* QAP Central, (Patente) (Nome) (Grupamento caso tenha) Entrando Em Serviço Pelo 1° BPM - SAINT
-* QAP Central, (Patente) (Nome) (Grupamento caso tenha) indo de QTX. Bom serviço a todos!
+* QAP Central, (Patente) (Nome) Entrando Em Serviço Pelo 1° BPM
+* QAP Central, (Patente) (Nome) indo de QTX. Bom serviço a todos!
 * QAP Central, (Patente) (Nome) Em Breve QTX
 * QAP Central, (Patente) (Nome) Voltando Do Breve QTX
 * QAP Central, (QSV) iniciando COD 0, tripulada por (Patente+Nome) e (Patente+Nome) QRV total em rede. ( Lembrando que a maior patente vem primeiro )
