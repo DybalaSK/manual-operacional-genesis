@@ -65,9 +65,7 @@ Permanecendo as legalidade de revista nessa situação, a feminina não poderá 
 Caso não tenha PFEM em QRV ou em serviço, o oficial presente deverá oferecer o procedimento da caixa.
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
-
-<p align="center"><mark style="color:yellow;">F8: /e caixa e depois utilizar o Revistar</mark></p>
+<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 O procedimento deve ser realizado nas celas do Departamento de Polícia e precisa ser registrado em vídeo para evitar qualquer situação de constrangimento no futuro. Deixe claro que a revista é na caixa e não na feminina.
@@ -135,7 +133,7 @@ Não fiquem apreensivos em liberar um indivíduo se a história dele for convinc
 * [x] Caso ocorra uma QRU de COD.5 ( Prioridade ) e os mesmo seja abatidos.
 
 {% hint style="danger" %}
-Lembrando que, só esta permitido a apreensão dos itens depois da <mark style="color:red;">área vermelha</mark> acabar e o anuncio de ação finalizada ser lançado.
+Lembrando que, só esta permitido a apreensão dos itens depois da <mark style="color:red;">área vermelha</mark> acabar e o anuncio de ação finalizada ser lançado e os mesmo estiver nas celas.
 {% endhint %}
 
 </details>
@@ -150,7 +148,7 @@ Lembrando que, só esta permitido a apreensão dos itens depois da <mark style="
 </details>
 
 {% hint style="danger" %}
-Lembrando que a utilização do /REVISTAR é totalmente proibida nos corpos.
+Lembrando que a remoção dos itens fora das celas é totalmente proibido.
 {% endhint %}
 
 ## Abordagens
@@ -165,13 +163,13 @@ Destinada às situações de trânsito, o objetivo principal é a verificação 
 * O P2 solicitará apoio de mais duas unidades e assim que chegarem será iniciada a abordagem. \
   <mark style="color:$warning;">"QAP Central, Iniciando uma abordagem de CODIGO 1 em um S15 Branco tripulado x2 na região do vermelho, preciso de apoio de mais 2 unidades. Alguma unidade pra prestar apoio?"</mark>
 
-<figure><img src="../.gitbook/assets/jj.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/1.png" alt=""><figcaption></figcaption></figure>
 
 *   Com o apoio já no local, o P2 irá até o veículo abordado e se apresentará formalmente ao indivíduo explicando o motivo da abordagem.
 
 
 
-    "Bom dia, sou o Coronel Dybala Maledict do 1° BPM-Garden. Parei o senhor porque foi observado que os faróis traseiros do seu veículo estão quebrados."
+    "Bom dia, sou o 2°Tenente Dybala NoLove do 1° BPM-SAINT. Parei o senhor porque foi observado que os faróis traseiros do seu veículo estão quebrados."
 
     * Após contextualização, será solicitado o documento do envolvido presente e será feita a checagem de pendências.
 
@@ -195,11 +193,11 @@ Mais comum no dia-a-dia dos oficiais, são destinadas às QRU's de corrida ilega
 * O P2 solicitará apoio de mais duas unidades e assim que chegarem será iniciada a abordagem. solicitará o desembarque do abordado de seu veículo, encostando na parede com as mãos para trás.\
   <mark style="color:$warning;">"QAP Central, Iniciando uma abordagem de CODIGO 2 em um R34 Vermelho tripulado x1 na região do SAMIR, preciso de apoio de mais 2 unidades. Alguma unidade pra prestar apoio?"</mark>
 
-<figure><img src="../.gitbook/assets/jj.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/1.png" alt=""><figcaption></figcaption></figure>
 
 *   Com o apoio já no local, o P2 irá até o indivíduo se apresentar formalmente e explicar o motivo da abordagem.
 
-    <mark style="color:$warning;">"Bom dia, sou o Coronel Dybala Maledict do 1° BPM-Garden. Parei o senhor porque recebemos denúncia de um roubo de Veiculo no local."</mark>
+    <mark style="color:$warning;">"Bom dia, sou o</mark> <mark style="color:$warning;">2°Tenente Dybala NoLove do 1° BPM-SAINT</mark><mark style="color:$warning;">. Parei o senhor porque recebemos denúncia de um roubo de Veiculo no local."</mark>
 * Após contextualização, será solicitado o documento do envolvido presente e será feita a checagem de pendências juntamente com o procedimento padrão de revista (Se a história não for convincente).
 
 {% hint style="success" %}
@@ -216,9 +214,9 @@ Se for conduzido para o Departamento de Polícia, deve-se dar o código 4 na rá
 
 <summary><mark style="color:blue;">Abordagem de nivel 3</mark></summary>
 
-Destinada às QRU's de disparos, visual armado, sequestro e afins. O padrão de unidades participantes são 03 Unidades, porém pode aumentar se um Sargento+ ou BOPE/CORE sentir a necessidade. O posicionamento segue o padrão abaixo. No momento em que o indivíduo descer do veículo, a primária deverá se aproximar e algemá-lo de imediato para garantir a segurança de todos.
+Destinada às QRU's de disparos, visual armado, sequestro e afins. O padrão de unidades participantes são 03 Unidades, porém pode aumentar se um Sargento+ ou BOPE sentir a necessidade. O posicionamento segue o padrão abaixo. No momento em que o indivíduo descer do veículo, a primária deverá se aproximar e algemá-lo de imediato para garantir a segurança de todos.
 
-<figure><img src="../.gitbook/assets/kk.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/2 (1).png" alt=""><figcaption></figcaption></figure>
 
 </details>
 

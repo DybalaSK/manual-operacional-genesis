@@ -53,7 +53,7 @@ Normalmente utilizado quando o indivíduo recusa a abordagem policial e tem a es
 <mark style="color:yellow;">Terciária:</mark> Responsável pelo cerco. Será a QSV que dará breve QTA para prestar apoio ao pedestre ou GTM atropelados se necessário.
 
 {% hint style="danger" %}
-Lembrando que 2 GTM = 1 Unidade
+Lembrando que 3 GTM = 1 Unidade
 {% endhint %}
 
 </details>
@@ -69,7 +69,7 @@ Caso o indivíduo venha a abandonar o seu veículo, ou simplesmente se evada da 
 Caso o indivíduo utilize algum meio de comunicação como rádio, celular o uso do taser será liberado.
 
 {% hint style="danger" %}
-A aplicação do taser é proibida se o indivíduo estiver molhado. Nesse caso seguirá com a manobra da cabeçada.
+É proibido o uso de armamento letal ou TAZER
 {% endhint %}
 
 </details>
@@ -86,8 +86,8 @@ Será dado apenas 01 aviso para que se entregue e, se não acatar, será iniciad
 
 </details>
 
-{% hint style="warning" %}
-Em casos onde o indivíduo tenha o seu veículo totalmente neutralizado/quebrado e mesmo assim se negue a sair, solicitem um Sargento+ e gravem toda a situação pela Bodycam.
+{% hint style="danger" %}
+**Não é permitido dar QTA de um acompanhamento para responder a ações** que foram puxadas durante o acompanhamento (Não se aplica a Táticas e Especializadas).
 {% endhint %}
 
 ## Funções compartilhadas
@@ -129,7 +129,7 @@ Toda viatura policial acompanha configurações específicas que irão auxiliar 
 * R - Altera a intensidade do sonoro
 * N - Liga/desliga o radar móvel
 * G - Trava/destrava o cinto
-* M - Dá acesso a abertura de portas, vidros, capô, porta-malas e liga a seta.
+* F4 - Dá acesso a abertura de portas, vidros, capô, porta-malas e liga a seta.
 
 ## Codigo 3 e 5
 
@@ -141,11 +141,11 @@ O limite de unidades para essas situações são de até 03 unidades terrestres 
 
 Para veículos 4 rodas:
 
-SPEED → GTM → BOPE/CORE → RPM
+SPEED → GTM → BOPE → RPM
 
 Para motocicletas:
 
-GTM → SPEED → BOPE/CORE → RPM
+GTM → SPEED → BOPE → RPM
 
 </details>
 
@@ -160,13 +160,13 @@ No indivíduo:
 * [x] Ao tentar empurrar viaturas na água ou de lugares altos.
 * [x] Ao apontar arma de fogo para oficiais.
 * [x] Ao tentar roubar uma viatura do BPM.
-* [x] Confirmação Visual Armado.
+* [x] Confirmação Visual Armado,/Visual Disparando
 
 No pneu:
 
-* [x] Caso o motociclista caia por 02 duas vezes e retorne para a moto. A GTM poderá efetuar disparos.
-* [x] Ao brincar de bate-bate ou break-check com as viaturas mesmo após verbalização. O uso da SPIKE ou Codigo 3 é libereado.
-* [x] Ao atropelar civis ou GTM e não prestar apoio mesmo após verbalização. O uso da SPIKE ou Codigo 3 é liberado.
+* [x] Caso o motociclista caia por 02 duas vezes e retorne para a moto. A ROCAM poderá efetuar disparos.
+* [x] Ao brincar de bate-bate ou break-check com as viaturas mesmo após verbalização. O uso da SPIKE é libereado.
+* [x] Ao atropelar civis ou ROCAM e não prestar apoio mesmo após verbalização. O uso da SPIKE ou Codigo 5 é liberado.
 
 </details>
 
@@ -174,16 +174,15 @@ No pneu:
 
 Em casos onde o indivíduo de um veículo acompanhado desce e corre para outro a fim de dar fuga categoriza-se <mark style="color:blue;">resgate</mark>**.**
 
-<mark style="color:yellow;">Para veículos 4 rodas</mark>:
+<mark style="color:yellow;">Para veículos 2/4 rodas</mark>:
 
-Permitido o uso de spike, e roadblock (SPEED). Também abrirá vaga para mais 02 unidades, preferência SPEED.
+* <mark style="color:yellow;">Primeiro resgate</mark> = Adicionar mais 2 unidades.
+* <mark style="color:yellow;">Segundo resgate</mark> = Liberado o uso de SPIKES <mark style="color:$warning;">(Uso permitido para GRR)</mark>
+* <mark style="color:yellow;">Terceiro resgate</mark> = Liberação de disparo em <mark style="color:$danger;">UM</mark> pneu (com autorização)
+* Nas situações em que o indivíduo venha a abastecer e/ou reparar o veículo antes dos 10 minutos após a perda de visual, as viaturas presentes no acompanhamento estão autorizadas a abastecer e/ou reparar o veículo.
 
-<mark style="color:yellow;">Para motocicletas</mark>:
-
-Permitido uso de spike, e roadblock (GTM). Caso o indivíduo caia por mais de duas vezes e retorne para a motocicleta, os disparos serão liberados por parte da GTM.
-
-{% hint style="warning" %}
-O QTA não existe nessa QRU, exceto se o oficial vier a desmaiar por qualquer motivo, abrindo vaga para outra unidade substituí-lo.
+{% hint style="danger" %}
+Em casos de visual armado ou quando há confirmação de que o indivíduo está de fato armado fica autorizado a **liberação de todas as unidades disponíveis no acompanhamento.**
 {% endhint %}
 
 ## Rampas

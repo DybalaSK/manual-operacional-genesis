@@ -1,6 +1,6 @@
 # 🟢Comunicação Operacional🟢&#x20;
 
-Bem-vindo ao Manual Operacional da Polícia Garden. Este documento visa padronizar a comunicação e os procedimentos operacionais para garantir a eficiência, segurança e profissionalismo de todos os membros.
+Bem-vindo ao Manual Operacional da Polícia Saint. Este documento visa padronizar a comunicação e os procedimentos operacionais para garantir a eficiência, segurança e profissionalismo de todos os membros.
 
 ***
 
@@ -40,11 +40,7 @@ Dica: mantenha sempre a calma e a clareza, mesmo em situações de estresse.
 
 **Aqui teremos alguns comandos que utilizamos com frequencia dentro do 1°BPM**
 
-<table><thead><tr><th width="374">Canal</th><th>Função</th></tr></thead><tbody><tr><td>/911</td><td>Comunicação com cidadãos (multas, denúncias, chamados).</td></tr><tr><td>/anunciopm</td><td>Enviar um anúncio para cidade como "Polícia Militar"<br>Exemplo: 1° BPM Informa: A Região do (Local) esta controlada e livre para transitar novamente</td></tr><tr><td>Chat Polícia ( /PD )</td><td>Comunicação administrativa e situacional interna.</td></tr><tr><td>/pmt</td><td>Usado para fechar um perimetro ( Codigo 5 ) obs: Colocar nome da região que sera fechada.</td></tr><tr><td>/pmtr</td><td>Usado para abrir um perimetro ( Codigo 5 ) <br>obs: Colocar nome da região que sera aberta.</td></tr></tbody></table>
-
-{% hint style="danger" %}
-Lembrando que só poderar utilizar o PMTR depois que passar os 2 minutos sem nenhum disparo.&#x20;
-{% endhint %}
+<table><thead><tr><th width="374">Canal</th><th>Função</th></tr></thead><tbody><tr><td>/anunciopolicia</td><td>Enviar um anúncio para cidade como "Polícia Militar"<br>Exemplo: 1° BPM Informa: Estamos em formação semanal no momento, </td></tr><tr><td>Chat Polícia ( /190 )</td><td>Comunicação administrativa e situacional interna.</td></tr></tbody></table>
 
 ## Normas para uso da rádio e do chat policia ( PD )
 
@@ -54,7 +50,7 @@ Estas normas visam manter a ordem e a eficiência na comunicação por rádio e 
 
 <details>
 
-<summary><mark style="color:blue;"><strong>Rádio ( 190 )</strong></mark></summary>
+<summary><mark style="color:blue;"><strong>Rádio ( 911 )</strong></mark></summary>
 
 * Verifique se o canal está livre antes de modular.\
   <mark style="color:$warning;">"Exemplo: QAP central alguma QRU ou QRR em andamento?"</mark>
@@ -64,7 +60,7 @@ Estas normas visam manter a ordem e a eficiência na comunicação por rádio e 
   <mark style="color:$warning;">"Sempre utilizando o codigo Q"</mark>
 * Mantenha o foco no assunto da ocorrência.\
   <mark style="color:$warning;">"Evite ficar de conversa paralelas na RADIO"</mark>
-* Não proferir palavras obscenas e inadequadas na rádio <mark style="color:blue;">190.</mark>
+* Não proferir palavras obscenas e inadequadas na rádio <mark style="color:blue;">911.</mark>
 * Em ordem de oficiais superiores não conteste, apenas cumpra.
 
 </details>
@@ -74,7 +70,7 @@ Estas normas visam manter a ordem e a eficiência na comunicação por rádio e 
 <summary><mark style="color:blue;"><strong>Chat Polícia (PD)</strong></mark></summary>
 
 * Informar entrada e saída de serviço (QTO / QTX).\
-  <mark style="color:$warning;">"</mark><mark style="color:$warning;">**QAP Central, Coronel Dybala Maledict Entrando Em Serviço Pelo 1° BPM - GARDEN**</mark><mark style="color:$warning;">"</mark>
+  <mark style="color:$warning;">"</mark><mark style="color:$warning;">**QAP Central, 2°Tenente Dybala NoLove Navoz Entrando Em Serviço Pelo 1° BPM - SAINT**</mark><mark style="color:$warning;">"</mark>
 * Comunicação de patrulha (Código 0).
 * Relato de ocorrências e pedidos de reforço.\
   <mark style="color:$warning;">"</mark><mark style="color:$warning;">**Placa:43d323 | Veiculo:S15 | QRU: Trafico" ou "Prioridade Gas**</mark><mark style="color:$warning;">"</mark>
@@ -83,6 +79,10 @@ Estas normas visam manter a ordem e a eficiência na comunicação por rádio e 
 * Entre outros.
 
 </details>
+
+{% hint style="warning" %}
+Sempre que entrar em serviço entrar nas radios ( 911, 912, 913, 914.... ).
+{% endhint %}
 
 ***
 
@@ -94,7 +94,7 @@ As apresentações visam manter a ordem no CHAT Policia ( PD )
 
 Aqui teremos alguns exemplos sobre algumas apresentações que iremos utilizar no PD:
 
-* QAP Central, (Patente) (Nome) (Grupamento caso tenha) Entrando Em Serviço Pelo 1° BPM - GARDEN
+* QAP Central, (Patente) (Nome) (Grupamento caso tenha) Entrando Em Serviço Pelo 1° BPM - SAINT
 * QAP Central, (Patente) (Nome) (Grupamento caso tenha) indo de QTX. Bom serviço a todos!
 * QAP Central, (Patente) (Nome) Em Breve QTX
 * QAP Central, (Patente) (Nome) Voltando Do Breve QTX
