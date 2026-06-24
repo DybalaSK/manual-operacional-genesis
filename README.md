@@ -73,7 +73,7 @@ Nunca interrompa a transmissão de outro policial. Caso esteja em alguma priorid
 
 <summary><mark style="color:blue;"><strong>Chat Polícia (PD)</strong></mark></summary>
 
-* Informar entrada e saída de serviço (QTA / QTX).\
+* Informar entrada e saída de serviço ( QTX ).\
   <mark style="color:$warning;">"</mark><mark style="color:$warning;">**QAP Central, 2°Tenente Dybala NoLove Navoz Entrando Em Serviço Pelo 1° BPM - SAINT**</mark><mark style="color:$warning;">"</mark>
 * Comunicação de patrulha (Código 0).
 * Relato de ocorrências e pedidos de reforço.\
