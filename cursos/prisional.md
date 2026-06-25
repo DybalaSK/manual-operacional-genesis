@@ -1,20 +1,16 @@
----
-description: >-
-  Esse guia serve para melhor explicação das suas funcionalidades e eventuais
-  retiradas de dúvidas.
----
-
 # 🟡Prisional🟡
+
+Esse guia serve para melhor explicação das suas funcionalidades e eventuais retiradas de dúvidas.
 
 ***
 
 ## Painel
 
-para acessar o sistema da policia e necessario o Tablet Policial | TabletSaint.
+Para acessar o sistema da polícia e necessário o **Tablet Polícial | TabletSaint.**
 
 <figure><img src="../.gitbook/assets/a.png" alt=""><figcaption></figcaption></figure>
 
-Nessa primeira parte temos o **Centro de pesquisas,** Nela você consegue pesquisar o historico de algum OFICIAL ou CIVIL.
+Nessa primeira parte temos o **Centro de pesquisas.** Nela você consegue pesquisar o histórico de algum OFICIAL ou CIVIL.
 
 ***
 
@@ -24,35 +20,36 @@ Nessa primeira parte temos o **Centro de pesquisas,** Nela você consegue pesqui
 
 A aba de BOLETIM (B.O) é a segunda opção no tablet, sendo um lugar aonde poderá ver e fazer as prisões.
 
-Ao capturar um meliante é necessario conduzi-lo para a DP-S para realizar os procedimentos:<br>
+Ao capturar um meliante é necessário conduzi-lo para a DP-S para realizar os procedimentos:<br>
 
-* Conduzir o mesmo ate a área das celas, Aonde existe duas(2) salas para realizar as fotografias dos mesmo.
-* Basta Utilizar o ( + ) para criar um B.O, logo em seguida vai aparecer uma nova janela com as informações: Titulo, Provas, Oficiais, Civis e Criminosos envolvidos.
+* Conduzir o mesmo até a área das celas, aonde existe duas(2) salas para realizar as fotografias dos mesmo.
+* Basta utilizar o ( + ) para criar um B.O, logo em seguida vai aparecer uma nova janela com as informações: Titulo, Provas, Oficiais, Civis e Criminosos envolvidos.
 
 {% hint style="warning" %}
-O indivíduo deve estar **algemado com os braços para trás** e **não deve estar usando qualquer tipo de adorno** (chapéus, bonés, toucas, óculos e outros itens que dificultem a identificação);
+O indivíduo deve estar **algemado com os braços para trás** e **não deve estar usando qualquer tipo de adorno** ( chapéus, bonés, toucas, óculos e outros itens que dificultem a identificação ).
 {% endhint %}
 
-* Assim que tirar a foto do meliante, levamos o mesmo para as celas aonde iremos fazer o procedimento de revista. Aonde somente os itens ILEGAIS serão apreendidos.
+* Assim que tirar a foto do meliante, levamos o mesmo para as celas aonde iremos fazer o procedimento de revista. Aonde somente os itens **ILEGAIS** serão apreendidos.
 
 {% hint style="danger" %}
-A Revista em **MOCHILAS** só é permitida com a permissão do dono da mesma.
+A revista em **MOCHILAS** só é permitida com a permissão do dono da mesma.
 {% endhint %}
 
-* Na criação do B.O é importante colocar a QRU principal no titulo ( **atm, corrida, trafico...** ). Sobre na parte de ( Escreva sobre o ocorrido ) iremos utilizar da seguinte maneira:
+* Na criação do B.O é importante colocar a QRU principal no título ( **ATM, Corrida, Tráfico...** ). Sobre na parte de "**Escreva sobre o ocorrido"** iremos utilizar da seguinte maneira:
 
-\
+{% hint style="warning" %}
 1° Batalhão De Policia Militar Saint.
 
-Recebemos uma denuncia de ( QRU ) na região do ( QTH ), Chegando no local foi avistado um ( Veiculo ) Tripulado ( 2X ), Tentamos fazer abordagem no mesmo porem o mesmo se negou a parada, assim iniciando um acompanhamento contra o mesmo. aonde o veiculo do mesmo fico inoperante na região do ( QTH ). COD 4
+Recebemos uma denúncia de ( QRU ) na região do ( QTH ). Chegando no local foi avistado um ( veiculo ) tripulado ( 2X ), Tentamos fazer abordagem no mesmo pórem o mesmo se negou a parada, assim iniciando um acompanhamento contra o mesmo. Aonde o veiculo do indivíduo fico inoperante na região do ( QTH ). COD 4
 
 Veiculo/Placa:\
 Itens Apreendidos:
+{% endhint %}
 
 ***
 
-* <mark style="color:$warning;">Oficiais Envolvidos</mark> - Sera os oficiais que estão na QRU, normalmente sempre terá o QRA da primaria
-* <mark style="color:$warning;">Civil Envolvidos</mark> - Sempre e somente utilizado caso um civil queira fazer uma denuncia ( Veiculo roubado, Tentativa de sequestro etc...
+* <mark style="color:$warning;">Oficiais Envolvidos</mark> - Será os oficiais que estão na QRU, normalmente sempre terá o QRA da primária
+* <mark style="color:$warning;">Civil Envolvidos</mark> - Sempre e somente utilizado caso um civil queira fazer uma denúncia ( Veiculo roubado, Tentativa de sequestro etc... )
 * <mark style="color:$warning;">Criminosos Envolvidos</mark> - Utilizado apenas para os meliantes envolvido na QRU.
 
 ***
@@ -65,17 +62,17 @@ o indivíduo poderá receber benefícios que reduzem seu tempo de prisão. Essas
 
 ***
 
-## Veiculos
+## Veículos
 
 <figure><img src="../.gitbook/assets/c.png" alt=""><figcaption></figcaption></figure>
 
-Nessa parte teremos todas as informações de todos os veiculos da cidade, assim podendo **Multar, Apreender, colocar como furtado, procurado e liberar veiculo.**
+Nessa parte teremos todas as informações de todos os veículos da cidade, assim podendo **Multar, Apreender, Colocar como furtado, Procurado e Liberar.**
 
 ***
 
-## Estatisticas
+## Estatísticas
 
 <figure><img src="../.gitbook/assets/d.png" alt=""><figcaption></figcaption></figure>
 
-Aqui você podera ver os oficiais que estão de serviço e seus grupamentos.
+Aqui você poderá ver os oficiais que estão de serviço e seus grupamentos.
 
