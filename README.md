@@ -40,7 +40,7 @@ Dica: mantenha sempre a calma e a clareza, mesmo em situações de estresse.
 
 **Aqui teremos alguns comandos que utilizamos com frequencia dentro do 1°BPM**
 
-<table><thead><tr><th width="374">Canal</th><th>Função</th></tr></thead><tbody><tr><td>/anunciopolicia</td><td>Enviar um anúncio para cidade como "Polícia Militar"<br>Exemplo: 1° BPM Informa: A policia se encontra em FORMAÇÃO semanal no momento, <strong>nenhuma ocorrência ou chamado será atendido.</strong> agradecemos a compreensão.</td></tr><tr><td>Chat Polícia ( /190 )</td><td>Comunicação administrativa e situacional interna.</td></tr></tbody></table>
+<table><thead><tr><th width="374">Canal</th><th>Função</th></tr></thead><tbody><tr><td>/anunciopolicia</td><td>Enviar um anúncio para cidade como "Polícia Militar"<br>Exemplo: 1° BPM Informa: A policia se encontra em FORMAÇÃO semanal no momento, <strong>nenhuma ocorrência ou chamado será atendido.</strong> agradecemos a compreensão.</td></tr><tr><td>Chat Polícia ( /911 )</td><td>Comunicação administrativa e situacional interna.</td></tr></tbody></table>
 
 ## Normas para uso da rádio e do chat policia ( PD )
 

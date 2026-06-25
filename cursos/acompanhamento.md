@@ -6,7 +6,7 @@
 
 É de extrema importância a realização do mesmo trajeto do indivíduo em fuga, porém sempre corrigindo os erros de pilotagem dele para que não venha a quebrar sua VTR.
 
-<figure><img src="../.gitbook/assets/curso (2).gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/line 1.gif" alt=""><figcaption></figcaption></figure>
 
 </details>
 
@@ -16,7 +16,7 @@
 
 Se dá através da abertura da angulação antes da curva. Durante a realização dessa técnica você conseguirá virar menos o volante da viatura de forma que a curva seja efetuada com uma maior velocidade sem a necessidade da frenagem brusca. Além disso, você consegue ter uma visão mais ampliada do que virá na sua frente, conseguindo ter um pensamento rápido e se distanciando dos perigos.
 
-<figure><img src="../.gitbook/assets/curvas (1).gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/line 2 - Trim.gif" alt=""><figcaption></figcaption></figure>
 
 </details>
 
@@ -26,7 +26,7 @@ Se dá através da abertura da angulação antes da curva. Durante a realizaçã
 
 Consiste no uso de leves toques no freio e não só utilizar o acelerador como se fosse um carro de corrida. Preferencialmente deve ser utilizada coma técnica das curvas, pois uma se beneficiará da outra.
 
-<figure><img src="../.gitbook/assets/curvas (1).gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/line 2 - Trim.gif" alt=""><figcaption></figcaption></figure>
 
 </details>
 
@@ -131,11 +131,11 @@ Toda viatura policial acompanha configurações específicas que irão auxiliar 
 * G - Trava/destrava o cinto
 * F4 - Dá acesso a abertura de portas, vidros, capô, porta-malas e liga a seta.
 
-## Codigo 3 e 5
+## Código 3 e 5
 
 <details>
 
-<summary><mark style="color:blue;">Codigo 3</mark></summary>
+<summary><mark style="color:blue;">Código 3</mark></summary>
 
 O limite de unidades para essas situações são de até 03 unidades terrestres e apoio GRAER. Contudo, um Sargento+ poderá acionar mais unidades no local se houver a necessidade. Em acompanhamentos de código 3 existem prioridades de grupamentos para que se obtenha uma taxa maior de sucesso.
 
@@ -147,11 +147,15 @@ Para motocicletas:
 
 GTM → SPEED → BOPE → RPM
 
+{% hint style="danger" %}
+O limite inicial em qualquer acompanhamento é de 3 unidades, Podendo aumentar para no máximo 5 unidades de acordo com alguns critérios.
+{% endhint %}
+
 </details>
 
 <details>
 
-<summary><mark style="color:blue;">Codigo 5</mark></summary>
+<summary><mark style="color:blue;">Código 5</mark></summary>
 
 São situações de alta periculosidade e por isso deve-se ter atenção para saber quando realizar o disparo no indivíduo ou neutralizar o veículo.
 
@@ -164,7 +168,7 @@ No indivíduo:
 
 No pneu:
 
-* [x] Caso o motociclista caia por 02 duas vezes e retorne para a moto. A ROCAM poderá efetuar disparos.
+* [x] Caso o motociclista caia por 1 uma veze e retorne para a moto. A ROCAM poderá efetuar disparos. <mark style="color:$warning;">( exceto em casos onde a policia derruba o mesmo, nesses casos ele pode continuar a fuga com a moto ).</mark>
 * [x] Ao brincar de bate-bate ou break-check com as viaturas mesmo após a verbalização. O uso da SPIKE é liberado.
 * [x] Ao atropelar civis ou ROCAM e não prestar apoio mesmo após a verbalização. O uso da SPIKE ou Código 5 é liberado.
 
@@ -195,7 +199,7 @@ Saltos e rampas são permitidos na cidade. Dito isso, caso seja necessário, uti
 
 O controle aéreo para esses saltos são muito importante, assim sendo necessário controlar não só o veículo e sim a velocidade, para não acabar passando por cima de pontes ou até mesmo não conseguindo ganhar velocidade para fazer o salto.&#x20;
 
-<figure><img src="../.gitbook/assets/rampa.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/rampa 1.gif" alt=""><figcaption></figcaption></figure>
 
 A = Joga o veiculo pra esquerda\
 D = Joga o veiculo pra direira\
