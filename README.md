@@ -1,3 +1,7 @@
+---
+icon: walkie-talkie
+---
+
 # 🟢Comunicação Operacional🟢&#x20;
 
 Bem-vindo ao Manual Operacional da Polícia Saint. Este documento visa padronizar a comunicação e os procedimentos operacionais para garantir a eficiência, segurança e profissionalismo de todos os membros.
