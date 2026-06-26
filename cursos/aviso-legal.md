@@ -12,7 +12,4 @@ Alguns procedimentos, terminologias e estruturas presentes neste manual podem te
 
 A reprodução total ou parcial deste material sem autorização da administração da Saint Remastered é proibida.
 
-<p align="right"><sup><sub><strong>Copyright © 2026. Todos os direitos reservados ao criador</strong></sub></sup></p>
-
-<p align="right"><sup><sub><strong>( Dybala NoLove Navoz &#x26;</strong></sub></sup> <sup><sub><strong>Lily NoLove Navoz )</strong></sub></sup></p>
-
+<p align="right"><sup><sub><strong>Copyright © 2026. Todos os direitos reservados ao criador - ( Dybala NoLove Navoz &#x26;</strong></sub></sup> <sup><sub><strong>Lily NoLove Navoz )</strong></sub></sup></p>
