@@ -2,7 +2,7 @@
 
 ## Cursos
 
-* [🟢Comunicação Operacional🟢 ](README.md)
+* [Comunicação Operacional](README.md)
 * [🔴Abordagem🔴](cursos/abordagem.md)
 * [🔵Acompanhamento🔵  ](cursos/acompanhamento.md)
 * [🟡Prisional🟡](cursos/prisional.md)
