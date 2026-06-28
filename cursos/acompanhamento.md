@@ -145,11 +145,11 @@ O limite de unidades para essas situações são de até 03 unidades terrestres 
 
 Para veículos 4 rodas:
 
-SPEED → GTM → BOPE → RPM
+GAR → GTM → BOPE → RPM
 
 Para motocicletas:
 
-GTM → SPEED → BOPE → RPM
+GTM → GAR → BOPE → RPM
 
 {% hint style="danger" %}
 O limite inicial em qualquer acompanhamento é de 3 unidades, Podendo aumentar para no máximo 5 unidades de acordo com alguns critérios.
