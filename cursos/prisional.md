@@ -8,7 +8,7 @@ Esse guia serve para melhor explicação das suas funcionalidades e eventuais re
 
 ***
 
-## Painel
+<h2 align="center">Painel</h2>
 
 Para acessar o sistema da polícia e necessário o **Tablet Polícial | TabletSaint.**
 
@@ -18,7 +18,7 @@ Nessa primeira parte temos o **Centro de pesquisas.** Nela você consegue pesqui
 
 ***
 
-## Boletim De Ocorrência e Prisão
+<h2 align="center">Boletim De Ocorrência e Prisão</h2>
 
 <figure><img src="../.gitbook/assets/b.png" alt=""><figcaption></figcaption></figure>
 
@@ -66,7 +66,7 @@ o indivíduo poderá receber benefícios que reduzem seu tempo de prisão. Essas
 
 ***
 
-## Veículos
+<h2 align="center">Veículos</h2>
 
 <figure><img src="../.gitbook/assets/c.png" alt=""><figcaption></figcaption></figure>
 
@@ -74,7 +74,7 @@ Nessa parte teremos todas as informações de todos os veículos da cidade, assi
 
 ***
 
-## Estatísticas
+<h2 align="center">Estatísticas</h2>
 
 <figure><img src="../.gitbook/assets/d.png" alt=""><figcaption></figcaption></figure>
 

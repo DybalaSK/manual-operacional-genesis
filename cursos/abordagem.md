@@ -4,13 +4,13 @@ icon: car-siren-on
 
 # Abordagem
 
-## Postura e Conduta <a href="#conduta-e-postura" id="conduta-e-postura"></a>
+<h2 id="conduta-e-postura" align="center">Postura e Conduta</h2>
 
 É dever do oficial manter o controle em todas as circunstâncias. Por isso é fundamental que esteja com o emocional equilibrado durantes as patrulhas. Se não estiver bem, é recomendado sair de serviço até que se sinta apto novamente.
 
 ***
 
-## Procedimento de Abordagem
+<h2 align="center">Procedimento de Abordagem</h2>
 
 Enquanto em serviço, todos os oficiais tem autoridade legal para realizarem abordagens de toda a natureza e intensidade a qualquer cidadão. Isso inclui verificação de documentação, abordagens de trânsito por infrações, ações de caráter instrutivo, entre outros.
 
@@ -18,7 +18,7 @@ Enquanto em serviço, todos os oficiais tem autoridade legal para realizarem abo
 
 ***
 
-## Legalidade de Revista
+<h2 align="center">Legalidade de Revista</h2>
 
 O oficial tem direito a realizar revistas pessoais desde que exista uma justificativa plausível para o ato. Não é necessário aguardar uma denúncia pela central para poder agir.
 
@@ -56,7 +56,7 @@ Indivíduo que esteja utilizando máscara, coldre e/ou colete balístico será s
 
 ***
 
-## Revista pessoal em feminina
+<h2 align="center">Revista pessoal em feminina</h2>
 
 Permanecendo as legalidade de revista nessa situação, a feminina não poderá ser tocada por nenhum oficial do sexo masculino. Uma PFEM ( Policial feminina ) deverá ser solicitada no local da ocorrência para que possa ser realizado o procedimento correto e legal.
 
@@ -75,7 +75,7 @@ Caso não tenha PFEM em QRV ou em serviço, o oficial presente deverá oferecer 
 O procedimento deve ser realizado nas celas do Departamento de Polícia e precisa ser registrado em vídeo para evitar qualquer situação de constrangimento no futuro. Deixe claro que a revista é na caixa e não na feminina.
 {% endhint %}
 
-## Revista Veicular
+<h2 align="center">Revista Veicular</h2>
 
 <details>
 
@@ -99,7 +99,7 @@ Situações de código 5 ou prioridade onde o indivíduo foi pego em flagrante o
 Se o indivíduo for pego mexendo no porta-malas durante acompanhamento ou abordagem, independente de não ser o dono do veiculo, deve-se realizar a revista.
 {% endhint %}
 
-## Teste Residual/pólvora
+<h2 align="center">Teste Residual/pólvora</h2>
 
 Durante abordagem pode ser que seja necessário utilizar o teste residual ou o teste de pólvora.
 
@@ -127,7 +127,7 @@ Não fiquem apreensivos em liberar um indivíduo se a história dele for convinc
 
 </details>
 
-## Apreensão de itens
+<h2 align="center">Apreensão de itens</h2>
 
 <details>
 
@@ -155,7 +155,7 @@ Lembrando que só é permitido a apreensão dos itens depois da <mark style="col
 Lembrando que a remoção dos itens fora das celas é totalmente proibido.
 {% endhint %}
 
-## Abordagens
+<h2 align="center">Abordagens</h2>
 
 <details>
 

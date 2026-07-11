@@ -59,7 +59,7 @@ Ctrl = Joga o veiculo pra tras
 
 ***
 
-## Tipos de Acompanhamento
+<h2 align="center">Tipos de Acompanhamento</h2>
 
 <details>
 
@@ -154,7 +154,7 @@ Caso o indivíduo se recuse a realizar uma fuga efetiva durante o acompanhamento
 
 ***
 
-## Funções compartilhadas
+<h2 align="center">Funções compartilhadas</h2>
 
 São funções utilizadas entre as QSVs que são essenciais para que um acompanhamento possa ser desenvolvido, nos permitindo o código 4.<br>
 
@@ -184,7 +184,7 @@ Utilizada em contra-mão e vias pavimentadas (Praça, HP, Entre outros lugares).
 
 ***
 
-## Funções da viatura
+<h2 align="center">Funções da viatura</h2>
 
 Toda viatura policial acompanha configurações específicas que irão auxiliar durante patrulhas.
 
@@ -199,7 +199,7 @@ Toda viatura policial acompanha configurações específicas que irão auxiliar 
 
 ***
 
-## Código 3 e 5
+<h2 align="center">Código 3 e 5</h2>
 
 <details>
 
@@ -244,7 +244,7 @@ No pneu:
 
 ***
 
-## Resgate
+<h2 align="center">Resgate</h2>
 
 Em casos onde o indivíduo de um veículo acompanhado desce e corre para outro a fim de dar fuga categoriza-se <mark style="color:blue;">resgate</mark>**.**
 
@@ -264,7 +264,7 @@ Em casos de visual armado, ou quando há confirmação de que o indivíduo está
 
 ***
 
-## **Diretrizes de Acompanhamento**
+<h2 align="center"><strong>Diretrizes de Acompanhamento</strong></h2>
 
 <mark style="color:$warning;">**Retomada de Visual:**</mark> O tempo máximo para retomar um acompanhamento após perda de visual é de **10 minutos**, caso passe desse período, não será permitido retomar a acompanhamento pois será considerado como encerrado.
 
@@ -299,6 +299,49 @@ Em casos de visual armado, ou quando há confirmação de que o indivíduo está
 * **Os policiais devem acompanhar os corredores até a finalização da corrida, mantendo o acompanhamento visual.**
 * **É considerado iniciado o acompanhamento após o indivíduo finalizar a corrida.**
 * **É permitido até&#x20;**<mark style="color:$warning;">**2 unidades GRR por corredor**</mark>**.**
-* **O tablet de corrida só poderá ser apreendido se identificado pela Policia Civil como artigo ilegal após investigações.**
-* **Não é permitido o uso de SPIKES, exceto em casos de Fuga não Efetiva.**
+* **O tablet de corrida só poderá ser apreendido se identificado pela&#x20;**<mark style="color:$success;">**Policia Civil**</mark>**&#x20;como artigo ilegal após investigações.**
+* <mark style="color:$danger;">**Não é permitido**</mark>**&#x20;o uso de SPIKES, exceto em casos de Fuga não Efetiva.**
+{% endhint %}
+
+Caso o suspeito em fuga entre em uma <mark style="color:$warning;">**área de risco (Comunidades ou QG's conhecidos)**</mark> o policial deve informar em rádio a situação. Só é permitida incursão com autorização direta do <mark style="color:$warning;">**Alto comando**</mark> ou <mark style="color:$warning;">**Unidade BOPE**</mark><mark style="color:$warning;">.</mark>
+
+{% hint style="danger" %}
+N**este caso o objetivo da incursão é unicamente localizar e deter o indivíduo em fuga,&#x20;**<mark style="color:$warning;">**nenhuma investigação ou abordagem pode ser realizada**</mark>**&#x20;no local a não ser com o suspeito da ocorrência.**
+
+* Fica autorizado de forma imediata o **CÓD.5 em todos os pneus** **e motor do veículo** quando o mesmo entrar em uma área de risco, porém não é permitido entrar na área.
+* É autorizado bloquear a entrada caso o indivíduo demonstre intenção de entrar em alguma comunidade.&#x20;
+
+<p align="center"><mark style="color:$danger;"><strong>Importante:</strong></mark><strong> É prioridade do policial deter o indivíduo com vida, entretanto, o suspeito em fuga estará assumindo todos os riscos ao se dirigir a uma </strong><mark style="color:$danger;"><strong>área de risco</strong></mark><strong> visto que a policia não detêm controle direto dessas áreas.</strong></p>
+{% endhint %}
+
+***
+
+<h2 align="center"><strong>RoadBlock Parcial/Completo</strong></h2>
+
+O **Roadblock Parcial** é um procedimento utilizado para limitar ou redirecionar a rota de fuga de um indivíduo, utilizando viaturas ou bloqueios parciais com o objetivo de reduzir suas possibilidades de fuga.
+
+<mark style="color:$warning;">**Regras do procedimento:**</mark>
+
+* É proibido bloquear completamente todas as rotas de fuga do indivíduo
+* Não é permitido realizar bloqueios em rampas, saltos, escadas, props ou locais conhecidos como Fugas comuns <sup><mark style="color:$primary;">**Exemplo:**<mark style="color:$primary;"></sup> <sup><mark style="color:$primary;">Bloquear a<mark style="color:$primary;"></sup> <sup><mark style="color:$primary;">Rampa da Amigas<mark style="color:$primary;"></sup>
+* Becos e passagens estreitas poderão ser bloqueados apenas se ainda existir outra rota viável para o suspeito seguir.
+
+O objetivo do bloqueio é unicamente desviar a rota do suspeito em fuga, nunca para impossibilitar totalmente.
+
+***
+
+O **Roadblock completo** é um procedimento tático utilizado para conter o veículo do indivíduo em fuga, reduzindo suas possibilidades de evasão e forçando sua rendição de forma controlada.
+
+A técnica consiste na utilização estratégica de viaturas para limitar a movimentação do suspeito, permitindo que a abordagem e prisão sejam realizadas com maior segurança para a guarnição e para terceiros.
+
+O procedimento deverá ser utilizado apenas em situações autorizadas e de forma coerente, evitando bloqueios abusivos ou impossíveis de reagir. O objetivo do Roadblock completo não é causar destruição do veículo, mas sim encerrar a perseguição e forçar a entrega do fugitivo.
+
+{% hint style="info" %}
+### **Poderá ser utilizado quando** <a href="#sao-considerados-comportamentos-de-fuga-nao-efetiva-entre-outros" id="sao-considerados-comportamentos-de-fuga-nao-efetiva-entre-outros"></a>
+
+* O indivíduo se recusar a encerrar a fuga mesmo após estar com todos os pneus inutilizados
+* O indivíduo continuar tentando fugir com **3 ou mais** pneus furados
+* O indivíduo se recuse a iniciar fuga após o flagrante.
+
+<mark style="color:$danger;">**Nesses casos, os policiais autorizados poderão realizar o bloqueio total do veículo e efetuar a retirada forçada do suspeito para realização da prisão.**</mark>
 {% endhint %}

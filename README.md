@@ -8,7 +8,7 @@ icon: walkie-talkie
 
 ***
 
-## Barreiras No Processo De Comunicação
+<h2 align="center">Barreiras No Processo De Comunicação</h2>
 
 A comunicação é um dos pilares fundamentais da atuação policial. Uma modulação clara, objetiva e respeitosa é essencial para garantir o bom funcionamento das operações e a segurança de todos os membros, Embora pareça simples, a comunicação encontra diversas barreiras que podem interferir na clareza das mensagens transmitidas.
 
@@ -40,13 +40,13 @@ Dica: mantenha sempre a calma e a clareza, mesmo em situações de estresse.
 
 ***
 
-## Meios de Comunicação
+<h2 align="center">Meios de Comunicação</h2>
 
 **Aqui teremos alguns comandos que utilizamos com frequencia dentro do 1°BPM**
 
 <table><thead><tr><th width="374" align="center">Unidade</th><th align="center">Canal</th></tr></thead><tbody><tr><td align="center"><strong>RPM</strong></td><td align="center"><strong>/911</strong></td></tr><tr><td align="center"><strong>Alto Comando</strong></td><td align="center"><strong>/ac</strong></td></tr><tr><td align="center"><strong>Alto Comando Civil</strong></td><td align="center"><strong>/apc</strong></td></tr><tr><td align="center"><strong>GRR</strong></td><td align="center"><strong>/grr</strong></td></tr><tr><td align="center"><strong>ROCAM</strong></td><td align="center"><strong>/roc</strong></td></tr><tr><td align="center"><strong>BOPE</strong></td><td align="center"><strong>/bp</strong></td></tr><tr><td align="center"><strong>GRAER</strong></td><td align="center"><strong>/gra</strong></td></tr><tr><td align="center"><strong>RPC/GRO</strong></td><td align="center"><strong>/civ</strong></td></tr></tbody></table>
 
-## Normas para uso da rádio e do chat policia ( PD )
+<h2 align="center">Normas para uso da rádio e do chat policia ( PD )</h2>
 
 {% hint style="info" %}
 Estas normas visam manter a ordem e a eficiência na comunicação por rádio e no chat policial. Siga-as sempre durante o serviço.
@@ -94,7 +94,7 @@ Sempre que entrar em serviço entrar nas radios ( 911, 912, 913, 914.... ).
 
 ***
 
-## Apresentações
+<h2 align="center">Apresentações</h2>
 
 {% hint style="info" %}
 As apresentações visam manter a ordem no CHAT Policia ( PD )
@@ -111,11 +111,11 @@ Aqui teremos alguns exemplos sobre algumas apresentações que iremos utilizar n
 
 ***
 
-## Codigo 0 a 6
+<h2 align="center">Codigo 0 a 6</h2>
 
 <table><thead><tr><th width="99" align="center">Código</th><th>Situação</th><th>Exemplo</th></tr></thead><tbody><tr><td align="center">0</td><td>Em patrulha / retorno</td><td>Início de serviço</td></tr><tr><td align="center">1</td><td>Ocorrência de baixa intensidade</td><td>Abordagem de trânsito</td></tr><tr><td align="center">2</td><td>Ocorrência de média intensidade</td><td>Corrida ilegal, procurado</td></tr><tr><td align="center">3</td><td>Alta intensidade</td><td>Sequestro, disparos</td></tr><tr><td align="center">4</td><td>Sob controle / área limpa</td><td>Ocorrência concluída</td></tr><tr><td align="center">5</td><td>Fogo aberto</td><td>Disparos contra guarnição</td></tr><tr><td align="center">6</td><td>Equipe no local</td><td>Investigando local</td></tr></tbody></table>
 
-## Codigo Q
+<h2 align="center">Codigo Q</h2>
 
 | Código | Significado        |
 | ------ | ------------------ |
