@@ -44,7 +44,7 @@ Dica: mantenha sempre a calma e a clareza, mesmo em situações de estresse.
 
 **Aqui teremos alguns comandos que utilizamos com frequencia dentro do 1°BPM**
 
-<table><thead><tr><th width="374">Canal</th><th>Função</th></tr></thead><tbody><tr><td>/anunciopolicia</td><td>Enviar um anúncio para cidade como "Polícia Militar"<br>Exemplo: 1° BPM Informa: A policia se encontra em FORMAÇÃO semanal no momento, <strong>nenhuma ocorrência ou chamado será atendido.</strong> agradecemos a compreensão.</td></tr><tr><td>Chat Polícia ( /190 )</td><td>Comunicação administrativa e situacional interna.</td></tr></tbody></table>
+<table><thead><tr><th width="374" align="center">Unidade</th><th align="center">Canal</th></tr></thead><tbody><tr><td align="center"><strong>RPM</strong></td><td align="center"><strong>/911</strong></td></tr><tr><td align="center"><strong>Alto Comando</strong></td><td align="center"><strong>/ac</strong></td></tr><tr><td align="center"><strong>Alto Comando Civil</strong></td><td align="center"><strong>/apc</strong></td></tr><tr><td align="center"><strong>GRR</strong></td><td align="center"><strong>/grr</strong></td></tr><tr><td align="center"><strong>ROCAM</strong></td><td align="center"><strong>/roc</strong></td></tr><tr><td align="center"><strong>BOPE</strong></td><td align="center"><strong>/bp</strong></td></tr><tr><td align="center"><strong>GRAER</strong></td><td align="center"><strong>/gra</strong></td></tr><tr><td align="center"><strong>RPC/GRO</strong></td><td align="center"><strong>/civ</strong></td></tr></tbody></table>
 
 ## Normas para uso da rádio e do chat policia ( PD )
 

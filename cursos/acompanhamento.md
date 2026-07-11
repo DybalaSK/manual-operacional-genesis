@@ -42,6 +42,23 @@ Em calçadas temos muitos fatores adversos que podem causar acidentes graves com
 
 </details>
 
+<details>
+
+<summary><mark style="color:blue;">Controle e rampas</mark></summary>
+
+O controle aéreo para esses saltos são muito importante, assim sendo necessário controlar não só o veículo e sim a velocidade, para não acabar passando por cima de pontes ou até mesmo não conseguindo ganhar velocidade para fazer o salto.&#x20;
+
+<figure><img src="../.gitbook/assets/rampa 1.gif" alt=""><figcaption></figcaption></figure>
+
+A = Joga o veiculo pra esquerda\
+D = Joga o veiculo pra direira\
+Shift = Joga o veiculo pra frente\
+Ctrl = Joga o veiculo pra tras
+
+</details>
+
+***
+
 ## Tipos de Acompanhamento
 
 <details>
@@ -57,7 +74,7 @@ Normalmente utilizado quando o indivíduo recusa a abordagem policial e tem a es
 <mark style="color:yellow;">Terciária:</mark> Responsável pelo cerco. Será a QSV que dará breve QTA para prestar apoio ao pedestre ou GTM atropelados se necessário.
 
 {% hint style="danger" %}
-Lembrando que 3 GTM = 1 Unidade
+Lembrando que 3 ROCAM = 1 Unidade
 {% endhint %}
 
 </details>
@@ -70,7 +87,12 @@ Caso o indivíduo venha a abandonar o seu veículo, ou simplesmente se evada da 
 
 "QAP Central, iniciando acompanhamento a pé no indivíduo do Silva S15 da QRU de ATM. Veste calça preta, camiseta branca, descalço e cabelos longos na cor rosa."
 
-Caso o indivíduo utilize algum meio de comunicação como rádio, celular o uso do taser será liberado.
+Caso o indivíduo utilize algum meio de comunicação como rádio, celular o uso do tazer será liberado.
+
+{% hint style="warning" %}
+* **Durante o acompanhamento, caso o indivíduo inicie fuga a pé, os&#x20;**<mark style="color:$warning;">**policiais da viatura primária deverão desembarcar**</mark>**&#x20;e prosseguir a perseguição a pé, sendo vedado o uso da viatura para acompanhá-lo.**
+* **As demais unidades podem permanecer embarcadas para realizar o cerco e o adiantamento. Contudo, o&#x20;**<mark style="color:$warning;">**policial que desembarcar para conter o indivíduo não poderá retornar à viatura**</mark>**&#x20;até o encerramento da ocorrência**
+{% endhint %}
 
 {% hint style="danger" %}
 É proibido o uso de armamento letal ou TAZER
@@ -90,9 +112,47 @@ Será dado apenas 01 aviso para que se entregue e, se não acatar, será iniciad
 
 </details>
 
+<details>
+
+<summary><mark style="color:blue;">Fuga Não Efetiva</mark></summary>
+
+Caso o indivíduo se recuse a realizar uma fuga efetiva durante o acompanhamento, prolongando a ocorrência sem tentativa real de fugir, a guarnição deverá iniciar o seguinte procedimento.
+
+{% hint style="info" %}
+### **São considerados comportamentos de fuga não efetiva:** <a href="#sao-considerados-comportamentos-de-fuga-nao-efetiva-entre-outros" id="sao-considerados-comportamentos-de-fuga-nao-efetiva-entre-outros"></a>
+
+* **Permanecer parado sem dar continuidade à fuga.**
+* **Conduzir o veículo propositalmente em baixa velocidade.**
+* **Apenas circular pela cidade sem tentar despistar a guarnição.**
+* **Ir e voltar repetidas vezes para a mesma região, prolongando o acompanhamento sem efetivamente fugir.**
+{% endhint %}
+
+{% hint style="info" %}
+**Procedimentos aplicáveis:**
+
+* **A primária deverá realizar um&#x20;**<mark style="color:$warning;">**primeiro aviso verbal**</mark>**, determinando que o indivíduo prossiga com a tentativa de fuga.**
+
+&#x20;Em 5 minutos após o primeiro aviso, se o indivíduo persistir com o comportamento, fica autorizado o <mark style="color:$warning;">**disparo em 1 (um) pneu**</mark><mark style="color:$warning;">.</mark>
+
+* **Após o primeiro disparo, a primária deverá repetir o mesmo procedimento.**
+
+<mark style="color:$info;">(Aviso verbal -> 5 minutos de tolerância -> Disparo em 1 (um) pneu se permanecer)</mark>
+
+* **Caso o indivíduo permaneça sem alterações e fique com apenas 1 ou nenhum pneu,   &#x20;**<mark style="color:$warning;">**fica autorizado a manobra BOX e remoção forçada do veículo.**</mark>
+* **Após a detido, o mesmo deve ser encaminhado ao Batalhão correspondende para que seja aplicado os procedimentos cabíveis.**
+{% endhint %}
+
+{% hint style="danger" %}
+**Todo o procedimento deverá ser registrado pela&#x20;**<mark style="color:$warning;">**BODYCAM**</mark>**&#x20;da guarnição e apresentado à administração caso seja solicitado.&#x20;**<mark style="color:$info;">**(Necessário gravar toda a situação)**</mark>
+{% endhint %}
+
+</details>
+
 {% hint style="danger" %}
 **Não é permitido dar QTA de um acompanhamento para responder a ações** que foram puxadas durante o acompanhamento (Não se aplica a Táticas e Especializadas).
 {% endhint %}
+
+***
 
 ## Funções compartilhadas
 
@@ -122,6 +182,8 @@ Utilizada em contra-mão e vias pavimentadas (Praça, HP, Entre outros lugares).
 * <mark style="color:yellow;">Ultrapassagem</mark> - Realizada com autorização das unidades à frente, sempre pela esquerda e numa reta.
 * <mark style="color:yellow;">Distanciamento de segurança</mark> - Evita colisões desnecessárias e acidentes graves.
 
+***
+
 ## Funções da viatura
 
 Toda viatura policial acompanha configurações específicas que irão auxiliar durante patrulhas.
@@ -134,6 +196,8 @@ Toda viatura policial acompanha configurações específicas que irão auxiliar 
 * N - Liga/desliga o radar móvel
 * G - Trava/destrava o cinto
 * F4 - Dá acesso a abertura de portas, vidros, capô, porta-malas e liga a seta.
+
+***
 
 ## Código 3 e 5
 
@@ -178,6 +242,8 @@ No pneu:
 
 </details>
 
+***
+
 ## Resgate
 
 Em casos onde o indivíduo de um veículo acompanhado desce e corre para outro a fim de dar fuga categoriza-se <mark style="color:blue;">resgate</mark>**.**
@@ -185,29 +251,23 @@ Em casos onde o indivíduo de um veículo acompanhado desce e corre para outro a
 <mark style="color:yellow;">Para veículos 2/4 rodas</mark>:
 
 * <mark style="color:yellow;">Primeiro resgate</mark> = Adicionar mais 2 unidades.
-* <mark style="color:yellow;">Segundo resgate</mark> = Liberado o uso de SPIKES <mark style="color:$warning;">(uso permitido para GRR)</mark>
-* <mark style="color:yellow;">Terceiro resgate</mark> = Liberação de disparo em <mark style="color:$danger;">UM</mark> pneu (com autorização)
-* Nas situações em que o indivíduo venha a abastecer e/ou reparar o veículo antes dos 10 minutos após a perda de visual, as viaturas presentes no acompanhamento estão autorizadas a abastecer e/ou reparar o veículo.
+* <mark style="color:yellow;">Segundo resgate</mark> = Liberação de disparo em <mark style="color:$warning;">UM</mark> pneu ou uso de <mark style="color:$warning;">SPIKE</mark> <mark style="color:$danger;">(com autorização)</mark>
+* <mark style="color:yellow;">Terceiro resgate</mark> = Liberação de disparo em <mark style="color:$warning;">DOIS</mark> pneus <mark style="color:$danger;">(com autorização)</mark>
+* <mark style="color:yellow;">Quarto resgate</mark> = Liberação de disparos em <mark style="color:$warning;">TODOS</mark> os pneus e manora BOX.
+*   Nas situações em que o indivíduo venha a abastecer e/ou reparar o veículo antes dos 10 minutos após a perda de visual, as viaturas presentes no acompanhamento estão autorizadas a abastecer&#x20;
+
+    e/ou reparar o veículo.
 
 {% hint style="danger" %}
 Em casos de visual armado, ou quando há confirmação de que o indivíduo está de fato armado, fica autorizado a **liberação de todas as unidades disponíveis no acompanhamento.**
 {% endhint %}
 
-## Rampas
+***
 
-Saltos e rampas são permitidos na cidade. Dito isso, caso seja necessário, utilize o controle aéreo que temos na cidade.
+## **Diretrizes de Acompanhamento**
 
-<details>
+<mark style="color:$warning;">**Retomada de Visual:**</mark> O tempo máximo para retomar um acompanhamento após perda de visual é de **10 minutos**, caso passe desse período, não será permitido retomar a acompanhamento pois será considerado como encerrado.
 
-<summary><mark style="color:blue;">Controle e rampas</mark></summary>
+<sup>**Durante o período de busca, não é permitido realizar reparos ou abastecer a viatura.**</sup>
 
-O controle aéreo para esses saltos são muito importante, assim sendo necessário controlar não só o veículo e sim a velocidade, para não acabar passando por cima de pontes ou até mesmo não conseguindo ganhar velocidade para fazer o salto.&#x20;
-
-<figure><img src="../.gitbook/assets/rampa 1.gif" alt=""><figcaption></figcaption></figure>
-
-A = Joga o veiculo pra esquerda\
-D = Joga o veiculo pra direira\
-Shift = Joga o veiculo pra frente\
-Ctrl = Joga o veiculo pra tras
-
-</details>
+**Fuga limpa:** Fuga limpa se aplica a ocorrências de ATM, Registradora, Corrida Ilegal, Roubo a Casas, Roubo a Porta-Malas, Boosting e Assalto a Americanos, devendo seguir obrigatoriamente o protocolo de **FUGA LIMPA 100%**.
