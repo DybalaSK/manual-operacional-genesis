@@ -113,15 +113,7 @@ Aqui teremos alguns exemplos sobre algumas apresentações que iremos utilizar n
 
 ## Codigo 0 a 6
 
-| Código | Situação                        | Exemplo                   |
-| -----: | ------------------------------- | ------------------------- |
-|      0 | Em patrulha / retorno           | Início de serviço         |
-|      1 | Ocorrência de baixa intensidade | Abordagem de trânsito     |
-|      2 | Ocorrência de média intensidade | Corrida ilegal, procurado |
-|      3 | Alta intensidade                | Sequestro, disparos       |
-|      4 | Sob controle / área limpa       | Ocorrência concluída      |
-|      5 | Fogo aberto                     | Disparos contra guarnição |
-|      6 | Equipe no local                 | Investigando local        |
+<table><thead><tr><th width="99" align="center">Código</th><th>Situação</th><th>Exemplo</th></tr></thead><tbody><tr><td align="center">0</td><td>Em patrulha / retorno</td><td>Início de serviço</td></tr><tr><td align="center">1</td><td>Ocorrência de baixa intensidade</td><td>Abordagem de trânsito</td></tr><tr><td align="center">2</td><td>Ocorrência de média intensidade</td><td>Corrida ilegal, procurado</td></tr><tr><td align="center">3</td><td>Alta intensidade</td><td>Sequestro, disparos</td></tr><tr><td align="center">4</td><td>Sob controle / área limpa</td><td>Ocorrência concluída</td></tr><tr><td align="center">5</td><td>Fogo aberto</td><td>Disparos contra guarnição</td></tr><tr><td align="center">6</td><td>Equipe no local</td><td>Investigando local</td></tr></tbody></table>
 
 ## Codigo Q
 

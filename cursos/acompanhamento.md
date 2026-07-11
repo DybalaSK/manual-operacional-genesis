@@ -128,7 +128,7 @@ Caso o indivíduo se recuse a realizar uma fuga efetiva durante o acompanhamento
 {% endhint %}
 
 {% hint style="info" %}
-**Procedimentos aplicáveis:**
+### Procedimentos Apliáveis: <a href="#sao-considerados-comportamentos-de-fuga-nao-efetiva-entre-outros" id="sao-considerados-comportamentos-de-fuga-nao-efetiva-entre-outros"></a>
 
 * **A primária deverá realizar um&#x20;**<mark style="color:$warning;">**primeiro aviso verbal**</mark>**, determinando que o indivíduo prossiga com a tentativa de fuga.**
 
@@ -209,11 +209,11 @@ O limite de unidades para essas situações são de até 03 unidades terrestres 
 
 Para veículos 4 rodas:
 
-GAR → GTM → BOPE → RPM
+GRR → ROCAM → BOPE → RPM
 
 Para motocicletas:
 
-GTM → GAR → BOPE → RPM
+ROCAM → GRR → BOPE → RPM
 
 {% hint style="danger" %}
 O limite inicial em qualquer acompanhamento é de 3 unidades, Podendo aumentar para no máximo 5 unidades de acordo com alguns critérios.
@@ -268,6 +268,37 @@ Em casos de visual armado, ou quando há confirmação de que o indivíduo está
 
 <mark style="color:$warning;">**Retomada de Visual:**</mark> O tempo máximo para retomar um acompanhamento após perda de visual é de **10 minutos**, caso passe desse período, não será permitido retomar a acompanhamento pois será considerado como encerrado.
 
-<sup>**Durante o período de busca, não é permitido realizar reparos ou abastecer a viatura.**</sup>
+<sup><mark style="color:$danger;">**Durante o período de busca, não é permitido realizar reparos ou abastecer a viatura.**<mark style="color:$danger;"></sup>
 
-**Fuga limpa:** Fuga limpa se aplica a ocorrências de ATM, Registradora, Corrida Ilegal, Roubo a Casas, Roubo a Porta-Malas, Boosting e Assalto a Americanos, devendo seguir obrigatoriamente o protocolo de **FUGA LIMPA 100%**.
+<mark style="color:$warning;">**Fuga limpa:**</mark> Fuga limpa se aplica a ocorrências de ATM, Registradora, Corrida Ilegal, Roubo a Casas, Roubo a Porta-Malas, Boosting e Assalto a Americanos, devendo seguir obrigatoriamente o protocolo de <mark style="color:$warning;">**FUGA LIMPA 100%**</mark><mark style="color:$warning;">.</mark>
+
+{% hint style="info" %}
+### Durante a fuga limpa <a href="#sao-considerados-comportamentos-de-fuga-nao-efetiva-entre-outros" id="sao-considerados-comportamentos-de-fuga-nao-efetiva-entre-outros"></a>
+
+* <mark style="color:$danger;">**Não é permitido**</mark>**&#x20;o uso de armamento letal**
+* <mark style="color:$danger;">**Não é permitido**</mark>**&#x20;realizar imobilizações diretas antes do início da fuga (Dar cabeçada antes da tentativa de fuga)**
+* <mark style="color:$danger;">**Não é permitido**</mark>**&#x20;bloquear totalmente a passagem, deve-se sempre deixar alguma passagem livre. Podendo apenas desviar coordenadamente o fugitivo.**  \
+  <mark style="color:$info;">**Nesses casos, deve-se priorizar o acompanhamento e não prisão direta.**</mark>
+* <mark style="color:$warning;">**Caso o mesmo se recuse a tentar fugir ou cometa outro crime na presença policial, o policial poderá realizar a contenção e prisão direta do indivíduo.**</mark>
+{% endhint %}
+
+{% hint style="info" %}
+### Boosting <a href="#sao-considerados-comportamentos-de-fuga-nao-efetiva-entre-outros" id="sao-considerados-comportamentos-de-fuga-nao-efetiva-entre-outros"></a>
+
+* O **Boosting é considerado uma ocorrência de&#x20;**<mark style="color:$warning;">**fuga limpa**</mark>.
+* **Os policiais devem acompanhar o veículo até a conclusão da entrega, mantendo o acompanhamento visual.**
+* <mark style="color:$danger;">**Não é permitido**</mark>**&#x20;impedir a entrega do veículo durante o Boosting.**
+* **Após a entrega, caso o indivíduo embarque em outro veículo, o acompanhamento deverá prosseguir normalmente, não sendo a troca de veículo considerada resgate.**
+* **O acompanhamento será considerado iniciado no momento em que o indivíduo entrar no veículo utilizado para a fuga.**
+{% endhint %}
+
+{% hint style="info" %}
+### Corrida Ilegal <a href="#sao-considerados-comportamentos-de-fuga-nao-efetiva-entre-outros" id="sao-considerados-comportamentos-de-fuga-nao-efetiva-entre-outros"></a>
+
+* **A corrida ilegal é considerado uma ocorrência de&#x20;**<mark style="color:$warning;">**fuga limpa**</mark>.
+* **Os policiais devem acompanhar os corredores até a finalização da corrida, mantendo o acompanhamento visual.**
+* **É considerado iniciado o acompanhamento após o indivíduo finalizar a corrida.**
+* **É permitido até&#x20;**<mark style="color:$warning;">**2 unidades GRR por corredor**</mark>**.**
+* **O tablet de corrida só poderá ser apreendido se identificado pela Policia Civil como artigo ilegal após investigações.**
+* **Não é permitido o uso de SPIKES, exceto em casos de Fuga não Efetiva.**
+{% endhint %}
