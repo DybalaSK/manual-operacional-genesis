@@ -314,6 +314,17 @@ N**este caso o objetivo da incursão é unicamente localizar e deter o indivídu
 <p align="center"><mark style="color:$danger;"><strong>Importante:</strong></mark><strong> É prioridade do policial deter o indivíduo com vida, entretanto, o suspeito em fuga estará assumindo todos os riscos ao se dirigir a uma </strong><mark style="color:$danger;"><strong>área de risco</strong></mark><strong> visto que a policia não detêm controle direto dessas áreas.</strong></p>
 {% endhint %}
 
+{% hint style="info" %}
+### **O policial é obrigado a dar QTA caso** <a href="#sao-considerados-comportamentos-de-fuga-nao-efetiva-entre-outros" id="sao-considerados-comportamentos-de-fuga-nao-efetiva-entre-outros"></a>
+
+<mark style="color:yellow;">**⭢**</mark>**&#x20;A viatura furar 2 ou mais pneus.**\
+<mark style="color:yellow;">**⭢**</mark>**&#x20;A viatura fique presa e o policial não consiga soltar sem apoio ou sem sair da viatura.** \
+<mark style="color:yellow;">**⭢**</mark>**&#x20;A viatura estrague ou fique sem combustível.** \
+<mark style="color:yellow;">**⭢**</mark>**&#x20;Caso inicie uma prioridade contra a polícia&#x20;**<mark style="color:$danger;">**(apenas cód.5 contra policiais)**</mark>**.**
+
+* <mark style="color:$warning;">**Nessa situação, as unidades primária e secundária devem permanecer no acompanhamento. As demais devem dar apoio à prioridade.**</mark>
+{% endhint %}
+
 ***
 
 <h2 align="center"><strong>RoadBlock Parcial/Completo</strong></h2>
