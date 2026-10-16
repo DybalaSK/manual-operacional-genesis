@@ -1,141 +1,124 @@
 ---
+description: M A N U A L  D E  C O N D U T A  G R A
 icon: walkie-talkie
 ---
 
-# Comunicação Operacional
+# ACOMPANHAMENTO E COMUNIÇÃO
 
-**Bem-vindo ao Manual Operacional da Polícia Saint. Este documento visa padronizar a comunicação e os procedimentos operacionais para garantir a eficiência, segurança e profissionalismo de todos os membros.**
+<figure><img src=".gitbook/assets/logo.png" alt="" width="563"><figcaption></figcaption></figure>
 
-***
+## COMUNICAÇÃO EM HORAS
 
-<h2 align="center">Barreiras No Processo De Comunicação</h2>
+A **comunicação por horas** é um dos métodos mais utilizados na aviação para indicar a posição de objetos, ameaças, obstáculos e pontos de interesse em relação à aeronave.
 
-A comunicação é um dos pilares fundamentais da atuação policial. Uma modulação clara, objetiva e respeitosa é essencial para garantir o bom funcionamento das operações e a segurança de todos os membros, Embora pareça simples, a comunicação encontra diversas barreiras que podem interferir na clareza das mensagens transmitidas.
+Esse sistema oferece uma linguagem padronizada, rápida e precisa, permitindo que piloto, copiloto, operadores aerotáticos e equipes em solo compartilhem informações sem ambiguidades.
 
-<details>
+Ao utilizar a aeronave como ponto central de referência, todos os integrantes da operação passam a interpretar imediatamente a direção informada, reduzindo o tempo de resposta e **aumentando significativamente a consciência situacional da tripulação.**
 
-<summary><mark style="color:blue;"><strong>Individuais</strong></mark></summary>
+Esse método é empregado em operações de patrulhamento, perseguições, buscas, resgates, missões policiais, apoio tático e qualquer situação em que a velocidade da comunicação seja determinante para o sucesso da missão.
 
-<mark style="color:yellow;">**Questão interpessoal:**</mark> Não tenha vergonha em admitir que tenha duvidas ou que esta incerto em tal procedimento. sempre a algum superior ou colega de farda para ajuda-lo no que for preciso.
-
-<mark style="color:yellow;">**Lidar com erros:**</mark> Lembre-se cometer erros é normal, acabar esquecendo o nome de uma rua ou esquecer um QTH aonde o acompanhamento esteja passando, Contudo mantenha a calma.
-
-<mark style="color:yellow;">**Pedir ajuda/auxílio:**</mark> Não tenha medo ou vergonha de pedir ajuda para outros oficiais, caso tenha alguma duvida sobre algum procedimento procure algum superior ou colega de farda para sanar duvidas.
-
-</details>
-
-<details>
-
-<summary><mark style="color:blue;"><strong>Organizacional</strong></mark></summary>
-
-<mark style="color:yellow;">**Comunicação na rádio:**</mark> Utilize do bom senso na hora de modular! Observe se já não há outra ocorrência em ativo e jamais atropele uma modulação em andamento. Passe todas as informações necessárias ao solicitar apoio para que não seja necessário "reparar" os informes e alugar a rádio.
-
-<mark style="color:yellow;">**Procure soluções, não culpados:**</mark> Nem sempre irão concordar com o que você pensa, mas ter a maturidade para lidar com isso e seguir em frente é primordial. Jamais ofenda outro parceiro de farda e crie inimizades por uma discordância. Se houver qualquer problema, solicite o apoio de um superior imediato para resolver as pendências. <mark style="color:red;">**Não aja de cabeça quente!**</mark>
-
-</details>
-
-{% hint style="info" %}
-Dica: mantenha sempre a calma e a clareza, mesmo em situações de estresse.
-{% endhint %}
+<img src=".gitbook/assets/unknown.png" alt="" height="370" width="370">
 
 ***
 
-<h2 align="center">Meios de Comunicação</h2>
+## Objetivos de Aprendizagem
 
-**Aqui teremos alguns comandos que utilizamos com frequencia dentro do 1°BPM**
+Ao concluir este capítulo, o aluno será capaz de:
 
-<table><thead><tr><th width="374" align="center">Unidade</th><th align="center">Canal</th></tr></thead><tbody><tr><td align="center"><strong>RPM</strong></td><td align="center"><strong>/911</strong></td></tr><tr><td align="center"><strong>Alto Comando</strong></td><td align="center"><strong>/ac</strong></td></tr><tr><td align="center"><strong>Alto Comando Civil</strong></td><td align="center"><strong>/apc</strong></td></tr><tr><td align="center"><strong>GRR</strong></td><td align="center"><strong>/grr</strong></td></tr><tr><td align="center"><strong>ROCAM</strong></td><td align="center"><strong>/roc</strong></td></tr><tr><td align="center"><strong>BOPE</strong></td><td align="center"><strong>/bp</strong></td></tr><tr><td align="center"><strong>GRAER</strong></td><td align="center"><strong>/gra</strong></td></tr><tr><td align="center"><strong>RPC/GRO</strong></td><td align="center"><strong>/civ</strong></td></tr></tbody></table>
+* **Compreender o conceito da comunicação por horas;**
+* **Identificar corretamente todas as posições em relação à aeronave;**
+* **Transmitir informações de forma objetiva e padronizada;**
+* **Interpretar comunicações realizadas pela tripulação;**
+* **Aplicar o sistema durante operações aéreas reais ou simuladas.**
 
-<h2 align="center">Normas para uso da rádio e do chat policia ( PD )</h2>
+A comunicação por horas consiste em imaginar um relógio de doze horas sobre a aeronave, considerando sempre o nariz da aeronave como a posição de **12 horas.**
 
-{% hint style="info" %}
-Estas normas visam manter a ordem e a eficiência na comunicação por rádio e no chat policial. Siga-as sempre durante o serviço.
-{% endhint %}
+Cada direção recebe uma referência numérica semelhante ao mostrador de um relógio.
 
-<details>
+***
 
-<summary><mark style="color:blue;"><strong>Rádio ( 911 )</strong></mark></summary>
+## Referências principais
 
-* Verifique se o canal está livre antes de modular.\
-  <mark style="color:$warning;">"Exemplo: QAP central alguma QRU ou QRR em andamento?"</mark>
-* Evite interrupções desnecessárias.\
-  <mark style="color:$warning;">"Evite atropelar modulações"</mark>
-* Utilize linguagem objetiva e respeitosa.\
-  <mark style="color:$warning;">"Sempre utilizando o codigo Q"</mark>
-* Mantenha o foco no assunto da ocorrência.\
-  <mark style="color:$warning;">"Evite ficar de conversa paralelas na RADIO"</mark>
-* Não proferir palavras obscenas e inadequadas na rádio <mark style="color:blue;">911.</mark>
-* Em ordem de oficiais superiores não conteste, apenas cumpra.
-
-{% hint style="danger" %}
-Nunca interrompa a transmissão de outro policial. Caso esteja em alguma prioridade solicite **QRX (silêncio)** na rádio e aguarde silencio para comunicar a prioridade.
-{% endhint %}
-
-</details>
-
-<details>
-
-<summary><mark style="color:blue;"><strong>Chat Polícia (PD)</strong></mark></summary>
-
-* Informar entrada e saída de serviço ( QRV | QTX ).\
-  <mark style="color:$warning;">"</mark><mark style="color:$warning;">**QAP Central, 2°Tenente Dybala N. Navoz Em QRV Pelo 1° BPM**</mark><mark style="color:$warning;">"</mark>
-* Comunicação de patrulha (Código 0).
-* Relato de ocorrências e pedidos de reforço.\
-  <mark style="color:$warning;">"</mark><mark style="color:$warning;">**Placa:43d323 | Veiculo:S15 | QRU: Trafico | Ativo 912 |**</mark>
-* Evite uso indevido para conversas informais.
-* Solicitar Penal ou PFEM ou outro OFICIAL.
-* Entre outros.
-
-</details>
+|  HORÁRIO |         REFERÊNCIA         |
+| :------: | :------------------------: |
+| 12 HORAS | FRENTE (Nariz Da Aeronave) |
+|  3 HORAS |        Lado direito        |
+|  6 HORAS |            Cauda           |
+|  9 HORAS |        Lado Esquerdo       |
 
 {% hint style="warning" %}
-Sempre que entrar em serviço entrar nas radios ( 911, 912, 913, 914.... ).
+**A figura apresentada neste capítulo representa essa distribuição espacial e deve ser utilizada como referência durante toda a formação.**
 {% endhint %}
+
+As posições intermediárias indicam direções mais específicas:
+
+* **1 e 2 horas:** <mark style="color:$primary;">Frente direita</mark>
+* **4 e 5 horas:** <mark style="color:$primary;">Traseira direita</mark>
+* **7 e 8 horas:** <mark style="color:$primary;">Traseira esquerda</mark>
+* **10 e 11 horas:** <mark style="color:$primary;">Frente esquerda</mark>
 
 ***
 
-<h2 align="center">Apresentações</h2>
+## Princípios da Comunicação
 
-{% hint style="info" %}
-As apresentações visam manter a ordem no CHAT Policia ( PD )
-{% endhint %}
+Toda comunicação deve obedecer aos princípios fundamentais da comunicação aeronáutica
 
-Aqui teremos alguns exemplos sobre algumas apresentações que iremos utilizar no PD:
+* Clareza
+* Objetividade
+* Rapidez
+* Padronização
+* Precisão
 
-* QAP Central, (Patente) (Nome) Entrando Em Serviço Pelo 1° BPM
-* QAP Central, (Patente) (Nome) indo de QTX. Bom serviço a todos!
-* QAP Central, (Patente) (Nome) Em Breve QTX
-* QAP Central, (Patente) (Nome) Voltando Do Breve QTX
-* QAP Central, (QSV) iniciando COD 0, tripulada por (Patente+Nome) e (Patente+Nome) QRV total em rede. ( Lembrando que a maior patente vem primeiro )
-* QAP Central, Alguma QSV com vaga para P1 ou P2?
+<mark style="color:$warning;">informações longas ou vagas comprometem a segurança operacional.</mark>
 
 ***
 
-<h2 align="center">Codigo 0 a 6</h2>
+## Estrutura da Comunicação&#x20;
 
-<table><thead><tr><th width="99" align="center">Código</th><th>Situação</th><th>Exemplo</th></tr></thead><tbody><tr><td align="center">0</td><td>Em patrulha / retorno</td><td>Início de serviço</td></tr><tr><td align="center">1</td><td>Ocorrência de baixa intensidade</td><td>Abordagem de trânsito</td></tr><tr><td align="center">2</td><td>Ocorrência de média intensidade</td><td>Corrida ilegal, procurado</td></tr><tr><td align="center">3</td><td>Alta intensidade</td><td>Sequestro, disparos</td></tr><tr><td align="center">4</td><td>Sob controle / área limpa</td><td>Ocorrência concluída</td></tr><tr><td align="center">5</td><td>Fogo aberto</td><td>Disparos contra guarnição</td></tr><tr><td align="center">6</td><td>Equipe no local</td><td>Investigando local</td></tr></tbody></table>
+A transmissão deve seguir sempre a mesma sequência:
 
-<h2 align="center">Codigo Q</h2>
+* Direção
+* Informar a posição utilizando as horas do relógio.
+* Objetividade
 
-| Código | Significado        |
-| ------ | ------------------ |
-| QAP    | Na escuta          |
-| QTC    | Mensagem           |
-| QRR    | Apoio terrestre    |
-| PTR    | Patrulha           |
-| QRU    | Ocorrência         |
-| VTR    | Viatura            |
-| QSL    | Compreendido       |
-| QTX    | Saindo de serviço  |
-| QSM    | Repetir mensagem   |
-| QRA    | Nome e patente     |
-| QTA    | Cancelar mensagem  |
-| QTO    | Banheiro           |
-| TKS    | Obrigado           |
-| QRL    | Ocupado            |
-| QRX    | Cessar comunicação |
-| QSJ    | Dinheiro           |
-| QTI    | A caminho          |
-| QRV    | Às suas ordens     |
-| QTH    | Localização        |
-| QRT    | Policial ferido    |
+**Exemplo:**
+
+<mark style="color:yellow;">**"Alvo às 2 horas."**</mark>
+
+***
+
+## Comunicação entre Tripulantes
+
+Durante o voo, qualquer membro da tripulação pode informar referências utilizando o relógio da aeronave.
+
+**Exemplos:**
+
+<mark style="color:$success;">Operador</mark>
+
+<mark style="color:$info;">"Contato às 10 horas."</mark>
+
+<mark style="color:$success;">Tripulante</mark>
+
+<mark style="color:$info;">"Visual."</mark>
+
+***
+
+## Erros mais comuns
+
+<mark style="color:$danger;">**Evite utilizar expressões subjetivas como:**</mark>
+
+* Ali
+* Na frente
+* Mais para a direita
+* Mais para a esquerda
+* Atrás daquele prédio
+* Depois daquela árvore
+* Um pouco para cima
+
+{% hint style="warning" %}
+**Esses termos podem gerar interpretações diferentes entre os tripulantes e comprometer a coordenação da missão.**
+{% endhint %}
+
+<br>
+
+<br>

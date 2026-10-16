@@ -2,8 +2,7 @@
 
 ## Cursos
 
-* [Comunicação Operacional](README.md)
+* [ACOMPANHAMENTO E COMUNIÇÃO](README.md)
 * [Abordagem](cursos/abordagem.md)
 * [Acompanhamento](cursos/acompanhamento.md)
-* [Prisional](cursos/prisional.md)
 * [Aviso Legal](cursos/aviso-legal.md)
