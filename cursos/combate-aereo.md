@@ -1,11 +1,35 @@
 ---
 description: M A N U A L ​ ​D E ​ ​C O N D U T A ​ ​G R A
 icon: helicopter
+coverY: 0
+coverHeight: 700
+layout:
+  width: default
+  cover:
+    visible: true
+    size: background
+    mask: radial
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
+  anchors:
+    visible: true
 ---
 
 # Combate Aéreo
-
-<img src="../.gitbook/assets/unknown (10).png" alt="" width="563">
 
 <h2 align="center">Introdução</h2>
 

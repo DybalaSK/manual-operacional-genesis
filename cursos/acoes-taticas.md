@@ -1,11 +1,35 @@
 ---
 description: M A N U A L  D E  C O N D U T A  G R A
 icon: square-web-awesome
+coverY: -20.916584274340437
+coverHeight: 700
+layout:
+  width: default
+  cover:
+    visible: true
+    size: background
+    mask: radial
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
+  anchors:
+    visible: true
 ---
 
 # AÇÕES TÁTICAS
-
-<figure><img src="../.gitbook/assets/image (7).png" alt="" width="563"><figcaption></figcaption></figure>
 
 <h2 align="center"><strong>Introdução</strong></h2>
 
