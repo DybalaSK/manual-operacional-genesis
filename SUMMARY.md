@@ -2,7 +2,7 @@
 
 ## Cursos
 
-* [ACOMPANHAMENTO E COMUNIÇÃO](README.md)
-* [Abordagem](cursos/abordagem.md)
+* [ACOMPANHAMENTO E COMUNICAÇÃO](README.md)
+* [AÇÕES TÁTICAS](cursos/acoes-taticas.md)
 * [Acompanhamento](cursos/acompanhamento.md)
 * [Aviso Legal](cursos/aviso-legal.md)
