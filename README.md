@@ -83,19 +83,11 @@ A transmissão deve seguir sempre a mesma sequência:
 
 ***
 
-<h2 align="center">Comunicação entre Tripulantes</h2>
+<h2 align="center">Comunicação Rosa Dos Ventos</h2>
 
-Durante o voo, qualquer membro da tripulação pode informar referências utilizando o relógio da aeronave.
+![](<.gitbook/assets/unknown (1).jpeg>)
 
-**Exemplos:**
-
-<mark style="color:$success;">Operador</mark>
-
-<mark style="color:$info;">"Contato às 10 horas."</mark>
-
-<mark style="color:$success;">Tripulante</mark>
-
-<mark style="color:$info;">"Visual."</mark>
+Na rosa dos ventos, eles compreendem um círculo e a distância entre os pontos cardeais são ângulos de 90º. O norte, como sendo a referência, corresponde a 0º; o leste, a 90º; o sul, a 180º; o oeste, a 270º.
 
 ***
 
@@ -115,6 +107,8 @@ Durante o voo, qualquer membro da tripulação pode informar referências utiliz
 **Esses termos podem gerar interpretações diferentes entre os tripulantes e comprometer a coordenação da missão.**
 {% endhint %}
 
-<br>
+***
 
-<br>
+<h2 align="center">Limite de Altitude</h2>
+
+**Respeitar a altitude&#x20;**<mark style="color:red;">**máxima de 130 metros**</mark>**. O descumprimento durante o acompanhamento poderá resultar em&#x20;**<mark style="color:$warning;">**desligamento da GRA e punições administrativas na cidade**</mark>**, conforme as regras vigentes.**
