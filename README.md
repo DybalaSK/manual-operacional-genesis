@@ -1,5 +1,5 @@
 ---
-description: M A N U A L  D E  C O N D U T A  G R A
+description: M A N U A LㅤD EㅤC O N D U T AㅤG R A
 icon: walkie-talkie
 ---
 
