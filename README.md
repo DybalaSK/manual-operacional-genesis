@@ -77,13 +77,9 @@ Toda comunicação deve obedecer aos princípios fundamentais da comunicação a
 
 A transmissão deve seguir sempre a mesma sequência:
 
-* Direção
-* Informar a posição utilizando as horas do relógio.
-* Objetividade
+<mark style="color:$info;">**“ SEGUE SENTIDO OESTE NA VESPUCCI BOULEVARD PROXIMO AO VERMELHO “**</mark>
 
-**Exemplo:**
-
-<mark style="color:yellow;">**"Alvo às 2 horas."**</mark>
+[<sub>**Acesse os guias das ruas para aprender.mais sobre**</sub>](https://docs.google.com/document/d/1YFj-V2lOEdOGGQEvgrGDKna8_1dJD9ni/edit)
 
 ***
 
