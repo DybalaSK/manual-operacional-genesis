@@ -7,13 +7,13 @@ icon: gun-squirt
 
 <img src="../.gitbook/assets/unknown (10).png" alt="" width="563">
 
-## Introdução
+<h2 align="center">Introdução</h2>
 
 Diante da necessidade de ampliar a integração entre o efetivo **RPM** e a **GRA**, institui-se o **Curso de Atirador Aéreo**, destinado a capacitar os policiais previamente autorizados a embarcar na aeronave para exercer a função de atirador em situações de <mark style="color:$warning;">**QRU de Código 5**</mark>. A participação no curso <mark style="color:$danger;">não representa autorização automática para embarque em qualquer ocorrência</mark>. O emprego do policial na função dependerá da aprovação na instrução, da autorização do comando e da disponibilidade operacional da aeronave e de sua tripulação.
 
 ***
 
-## Funções Dentro Da Aeronave
+<h2 align="center">Funções Dentro Da Aeronave</h2>
 
 <details>
 
@@ -49,7 +49,7 @@ Responsáveis por realizar disparos quando necessários, e <mark style="color:$d
 
 ***
 
-## Técnicas De Disparos
+<h2 align="center">Técnicas De Disparos</h2>
 
 1. \- Sempre tenha total certeza e precisão antes de realizar um disparo, em caso de erros ao disparar, pode ocasionar em problemas sérios caso acerte um cidadão.
 2. \- Sempre que for disparar, avise o piloto, assim ele deixa o atirador com visual total.
@@ -79,8 +79,7 @@ A liberação do código 5 no indivíduo só é permetido nas situações presen
 2. Atenta contra vida de algum civil ou policial.
 3. É avistado com armamento em mãos durante uma <mark style="color:$danger;">QRU de CÓD. 5.</mark>
 4. Propositalmente pula na água com o veículo durante a fuga.
-5.
-6. Inicia fuga de abordagem após a confirmação do mesmo estar se evadindo de um <mark style="color:$danger;">COD. 5</mark> <mark style="color:$warning;">**(Nesse caso, será liberado o disparo no pneu para imobilização do veiculo).**</mark>
+5. Inicia fuga de abordagem após a confirmação do mesmo estar se evadindo de um <mark style="color:$danger;">COD. 5</mark> <mark style="color:$warning;">**(Nesse caso, será liberado o disparo no pneu para imobilização do veiculo).**</mark>
 
 <figure><img src="../.gitbook/assets/CursoDisparoLetal-ezgif.com-video-to-gif-converter.gif" alt=""><figcaption></figcaption></figure>
 

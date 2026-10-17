@@ -3,11 +3,11 @@ description: M A N U A L  D E  C O N D U T A  G R A
 icon: walkie-talkie
 ---
 
-# ACOMPANHAMENTO E COMUNIÇÃO
+# ACOMPANHAMENTO E COMUNICAÇÃO
 
 <figure><img src=".gitbook/assets/logo.png" alt="" width="563"><figcaption></figcaption></figure>
 
-## COMUNICAÇÃO EM HORAS
+<h2 align="center">COMUNICAÇÃO EM HORAS</h2>
 
 A **comunicação por horas** é um dos métodos mais utilizados na aviação para indicar a posição de objetos, ameaças, obstáculos e pontos de interesse em relação à aeronave.
 
@@ -21,7 +21,7 @@ Esse método é empregado em operações de patrulhamento, perseguições, busca
 
 ***
 
-## Objetivos de Aprendizagem
+<h2 align="center">Objetivos de Aprendizagem</h2>
 
 Ao concluir este capítulo, o aluno será capaz de:
 
@@ -37,7 +37,7 @@ Cada direção recebe uma referência numérica semelhante ao mostrador de um re
 
 ***
 
-## Referências principais
+<h2 align="center">Referências principais</h2>
 
 |  HORÁRIO |         REFERÊNCIA         |
 | :------: | :------------------------: |
@@ -59,7 +59,7 @@ As posições intermediárias indicam direções mais específicas:
 
 ***
 
-## Princípios da Comunicação
+<h2 align="center">Princípios da Comunicação</h2>
 
 Toda comunicação deve obedecer aos princípios fundamentais da comunicação aeronáutica
 
@@ -73,7 +73,7 @@ Toda comunicação deve obedecer aos princípios fundamentais da comunicação a
 
 ***
 
-## Estrutura da Comunicação&#x20;
+<h2 align="center">Estrutura da Comunicação </h2>
 
 A transmissão deve seguir sempre a mesma sequência:
 
@@ -87,7 +87,7 @@ A transmissão deve seguir sempre a mesma sequência:
 
 ***
 
-## Comunicação entre Tripulantes
+<h2 align="center">Comunicação entre Tripulantes</h2>
 
 Durante o voo, qualquer membro da tripulação pode informar referências utilizando o relógio da aeronave.
 
@@ -103,7 +103,7 @@ Durante o voo, qualquer membro da tripulação pode informar referências utiliz
 
 ***
 
-## Erros mais comuns
+<h2 align="center">Erros mais comuns</h2>
 
 <mark style="color:$danger;">**Evite utilizar expressões subjetivas como:**</mark>
 

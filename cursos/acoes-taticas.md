@@ -7,13 +7,13 @@ icon: square-web-awesome
 
 <figure><img src="../.gitbook/assets/image (7).png" alt="" width="563"><figcaption></figcaption></figure>
 
-## **Introdução**
+<h2 align="center"><strong>Introdução</strong></h2>
 
 O **Curso de Ações Táticas** tem como objetivo capacitar os operadores quanto aos principais procedimentos operacionais empregados pela unidade, incluindo o conhecimento e a correta utilização dos comandos vocais, técnicas de drop, posicionamentos táticos e demais ações aplicadas durante as operações aéreas. O conteúdo será desenvolvido de forma progressiva, sendo cada técnica ministrada e praticada em um dia específico, permitindo melhor assimilação, execução e avaliação individual dos participantes.
 
 ***
 
-## Perimetros
+<h2 align="center">Perimetros</h2>
 
 **Fleeca Shopping&#x20;**<mark style="color:$danger;">**(Proibido utilizar o metrô)**</mark>
 
